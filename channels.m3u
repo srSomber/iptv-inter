@@ -468,11 +468,11 @@ flow://Q2FuYWw5X0JhaGlhX0JsYW5jYQ==
 # flow://QXJ0ZWFySEQ=
 #EXTINF:-1 tvg-id="238" tvg-logo="https://i.postimg.cc/NfcR9FZr/eltres_Rosario.png" tvg-code="Q2FuYWxfM19Sb3Nhcmlv" tvg-keyid="662447df521fb590b72b1a11671c2afd" tvg-drmkey="81c204c443987d7b176587d626a124a0" group-title="PROVINCIALES",eltresTV Rosario
 flow://Q2FuYWxfM19Sb3Nhcmlv
-# #EXTINF:-1 tvg-id="200" tvg-logo="https://i.postimg.cc/x8ZQzNsf/Hustler-mature.png" tvg-code="SHVzdGxlcg==" tvg-keyid="cf37db556be5ee1ecd1ee1f1bcf39390" tvg-drmkey="cb2d8390f9c6c39311939fb51ba42ab2" group-title="Adultos",Hustler Mature (18+)
-# flow://SHVzdGxlcg==
-# #EXTINF:-1 tvg-id="209" tvg-logo="https://i.postimg.cc/tTLGm9X6/Playboy_TV.png" tvg-code="UGxheWJveQ==" tvg-keyid="8577d81eaf33436d9f1e482360685a7c" tvg-drmkey="f608a0ac703cfaaf9442574d9a2b87fb" group-title="Adultos",Playboy TV (18+)
-# flow://UGxheWJveQ==
-# #EXTINF:-1 tvg-id="214" tvg-logo="https://i.postimg.cc/k4kPh7nx/Sextreme.png" tvg-code="U2V4dHJlbWU=" tvg-keyid="95bd64227acf458daf7886f803d0298e" tvg-drmkey="79e28ee0ec58958bb666f9e53a0cd434" group-title="Adultos",Sextreme (18+)
-# flow://U2V4dHJlbWU=
-# #EXTINF:-1 tvg-id="234" tvg-logo="https://i.postimg.cc/fL6QgMwf/Venus.png" tvg-code="VmVudXM=" tvg-keyid="34237d2ae6684ee7a011f5b9c7c43e6d" tvg-drmkey="05d973d987915120e567880f50a422af" group-title="Adultos",Venus (18+)
-# flow://VmVudXM=
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.postimg.cc/x8ZQzNsf/Hustler-mature.png" tvg-code="SHVzdGxlcg==" tvg-keyid="cf37db556be5ee1ecd1ee1f1bcf39390" tvg-drmkey="cb2d8390f9c6c39311939fb51ba42ab2" group-title="Adultos",Hustler Mature (18+)
+flow://SHVzdGxlcg==
+#EXTINF:-1 tvg-id="209" tvg-logo="https://i.postimg.cc/tTLGm9X6/Playboy_TV.png" tvg-code="UGxheWJveQ==" tvg-keyid="8577d81eaf33436d9f1e482360685a7c" tvg-drmkey="f608a0ac703cfaaf9442574d9a2b87fb" group-title="Adultos",Playboy TV (18+)
+flow://UGxheWJveQ==
+#EXTINF:-1 tvg-id="214" tvg-logo="https://i.postimg.cc/k4kPh7nx/Sextreme.png" tvg-code="U2V4dHJlbWU=" tvg-keyid="95bd64227acf458daf7886f803d0298e" tvg-drmkey="79e28ee0ec58958bb666f9e53a0cd434" group-title="Adultos",Sextreme (18+)
+flow://U2V4dHJlbWU=
+#EXTINF:-1 tvg-id="234" tvg-logo="https://i.postimg.cc/fL6QgMwf/Venus.png" tvg-code="VmVudXM=" tvg-keyid="34237d2ae6684ee7a011f5b9c7c43e6d" tvg-drmkey="05d973d987915120e567880f50a422af" group-title="Adultos",Venus (18+)
+flow://VmVudXM=
