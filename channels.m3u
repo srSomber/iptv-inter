@@ -9,12 +9,20 @@ flow://Q2FuYWw5
 flow://R291cm1ldA==
 #EXTINF:-1 tvg-id="5" tvg-logo="https://tele-libre.fans/img/ciudad.webp" tvg-code="TWFnYXppbmU=" tvg-keyid="4f1235069d34c22cb73d9b78bae15587" tvg-drmkey="55e068ff6b152e34c66dc639b38e8692" group-title="VARIEDADES",Magazine
 flow://TWFnYXppbmU=
-#EXTINF:-1 tvg-id="6" tvg-logo="https://tele-libre.fans/img/tntsports.png" tvg-code="VE5UX1Nwb3J0c19IRA==" tvg-keyid="bc80fa3da696e503f940fde5f681a1c5" tvg-drmkey="ea46e4e9f1132e8dd71fb77f7d55058a" group-title="DEPORTES",TNT Sports
-flow://VE5UX1Nwb3J0c19IRA==
+#EXTINF:-1 tvg-id="6" tvg-logo="https://tele-libre.fans/img/tntsports.png" tvg-code="VE5UX1Nwb3J0c19IRA" tvg-keyid="bc80fa3da696e503f940fde5f681a1c5" tvg-drmkey="ea46e4e9f1132e8dd71fb77f7d55058a" group-title="DEPORTES",TNT Sports
+flow://VE5UX1Nwb3J0c19IRA
 #EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png" tvg-code="Rm94X1Nwb3J0c19QcmVtaXVuX0hE" tvg-keyid="4c230dbc7f6a4bfa6ad0aa73ff792374" tvg-drmkey="4186a7c2a15f590a9399886feaec4257" group-title="DEPORTES",ESPN Premium
 flow://Rm94X1Nwb3J0c19QcmVtaXVuX0hE
-#EXTINF:-1 tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/250px-TyC_Sports_Logo.svg.png" tvg-code="VHlDU3BvcnQ=" tvg-keyid="2b21c8fa9a329cce311a4c4a4aa996a1" tvg-drmkey="cc23ea1fb32629f9e1f48c8deeae3e5b" group-title="DEPORTES",TyC Sports
-flow://VHlDU3BvcnQ=
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" tvg-code="RFNwb3J0c18x" tvg-keyid="4c230dbc7f6a4bfa6ad0aa73ff792374" tvg-drmkey="4186a7c2a15f590a9399886feaec4257" group-title="DEPORTES",DSports
+flow://RFNwb3J0c18x
+#EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png" tvg-code="RHNwb3J0c19QbHVzX1VZ" tvg-keyid="4c230dbc7f6a4bfa6ad0aa73ff792374" tvg-drmkey="4186a7c2a15f590a9399886feaec4257" group-title="DEPORTES",DSports +
+flow://RHNwb3J0c19QbHVzX1VZ
+#EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" tvg-code="RFNwb3J0c18y" tvg-keyid="4c230dbc7f6a4bfa6ad0aa73ff792374" tvg-drmkey="4186a7c2a15f590a9399886feaec4257" group-title="DEPORTES",DSports 2
+flow://RFNwb3J0c18y
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/250px-TyC_Sports_Logo.svg.png" tvg-code="VHlDU3BvcnQ" tvg-keyid="2b21c8fa9a329cce311a4c4a4aa996a1" tvg-drmkey="cc23ea1fb32629f9e1f48c8deeae3e5b" group-title="DEPORTES",TyC Sports
+flow://VHlDU3BvcnQ
 #EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-2-ar.png" tvg-code="RVNQTjJIRA" tvg-keyid="e884b711ab111beb8a7ba1e7bcbdc9bf" tvg-drmkey="cb89ee3961599e3e648a5aad60895f34" group-title="DEPORTES",ESPN 2
 flow://RVNQTjJIRA
 #EXTINF:-1 tvg-id="10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-2-ar.png" tvg-code="RVNQTjJfQXJn" tvg-keyid="65a5bfa3c7a72dde60be9b0c7406c8fc" tvg-drmkey="0b40ae9f78a7bac3b57ecbf72d3c081e" group-title="DEPORTES",ESPN 2 Argentina
@@ -43,8 +51,8 @@ flow://SEJPX1BPUA==
 flow://SEJPX1NpZ25hdHVyZQ==
 #EXTINF:-1 tvg-id="22" tvg-logo="https://tele-libre.fans/img/sony.webp" tvg-code="U29ueUhE" tvg-keyid="fd9619f9d7c2d5115a339941279e0b4b" tvg-drmkey="bf55635e6591f905659fa27ab3ca2812" group-title="CINE Y SERIES",Sony Channel
 flow://U29ueUhE
-#EXTINF:-1 tvg-id="23" tvg-logo="https://tele-libre.fans/img/comedy.webp" tvg-code="Q29tZWR5Q2VudHJhbA==" tvg-keyid="4013f784c5ef4318ad47024e61eb094e" tvg-drmkey="bad433a547f97c7f65cda5e83b8dd416" group-title="CINE Y SERIES",Comedy Central
-flow://Q29tZWR5Q2VudHJhbA==
+#EXTINF:-1 tvg-id="23" tvg-logo="https://tele-libre.fans/img/comedy.webp" tvg-code="Q29tZWR5Q2VudHJhbA" tvg-keyid="4013f784c5ef4318ad47024e61eb094e" tvg-drmkey="bad433a547f97c7f65cda5e83b8dd416" group-title="CINE Y SERIES",Comedy Central
+flow://Q29tZWR5Q2VudHJhbA
 #EXTINF:-1 tvg-id="24" tvg-logo="https://tele-libre.fans/img/unitv.webp" tvg-code="VW5pdmVyc2FsX0NoYW5uZWxfSEQ=" tvg-keyid="6cf9a13d6fd65a0f2e1cee3969aab9f5" tvg-drmkey="ea61c3c1adee71b5c2e9744e41d4b75f" group-title="CINE Y SERIES",Universal Channel
 flow://VW5pdmVyc2FsX0NoYW5uZWxfSEQ=
 #EXTINF:-1 tvg-id="25" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/universal-cinema-lam.png" tvg-code="VW5pdmVyc2FsX0NpbmVtYQ==" tvg-keyid="f6ae2e17173055e4ca69dc18963406ae" tvg-drmkey="5a955c29eb88a0b4c9a2538cc4b3aea2" group-title="CINE Y SERIES",Universal Cinema
@@ -87,8 +95,8 @@ flow://QVhOSEQ=
 flow://TGlmZXRpbWU=
 #EXTINF:-1 tvg-id="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/250px-USA_Network_2020.svg.png" tvg-code="VVNBX05ldHdvcms=" tvg-keyid="c754b522b3b87dc2ba2da3e35154ec14" tvg-drmkey="141a51e9e83861ae99b4b217431710b3" group-title="CINE Y SERIES",USA Network
 flow://VVNBX05ldHdvcms=
-#EXTINF:-1 tvg-id="44" tvg-logo="https://tele-libre.fans/img/europa.png" tvg-code="RXVyb3BhX0V1cm9wYQ==" tvg-keyid="b47f257df0314d09a7f8355c3abe1dc6" tvg-drmkey="bdc9f1696a82ee7398dd3a7fa82300e2" group-title="CINE Y SERIES",Europa Europa
-flow://RXVyb3BhX0V1cm9wYQ==
+#EXTINF:-1 tvg-id="44" tvg-logo="https://tele-libre.fans/img/europa.png" tvg-code="RXVyb3BhX0V1cm9wYQ" tvg-keyid="b47f257df0314d09a7f8355c3abe1dc6" tvg-drmkey="bdc9f1696a82ee7398dd3a7fa82300e2" group-title="CINE Y SERIES",Europa Europa
+flow://RXVyb3BhX0V1cm9wYQ
 #EXTINF:-1 tvg-id="45" tvg-logo="https://tele-libre.fans/img/film.png" tvg-code="RmlsbV9BcnRz" tvg-keyid="91c540d350f34f5386f3f1c77f74001f" tvg-drmkey="54ee72810551da0cba0c45a8df651962" group-title="CINE Y SERIES",Film & Arts
 flow://RmlsbV9BcnRz
 #EXTINF:-1 tvg-id="46" tvg-logo="https://tele-libre.fans/img/tcm.webp" tvg-code="VENN" tvg-keyid="a5f44a5e30714cf3bcee7c7f15a08b4e" tvg-drmkey="c3c141ae941ab9750339c3af45a65ce2" group-title="CINE Y SERIES",TCM
@@ -117,26 +125,26 @@ flow://RHJlYW13b3Jrcw==
 flow://Qm9vbWVyYW5n
 #EXTINF:-1 tvg-id="58" tvg-logo="https://tele-libre.fans/img/adult-swim.png" tvg-code="QWR1bHRfU3dpbQ==" tvg-keyid="9be1432e1e594c8d0648a44d3d9f0c46" tvg-drmkey="8e6c785b14d973c504074b1920f11b15" group-title="INFANTILES",Adult Swim
 flow://QWR1bHRfU3dpbQ==
-#EXTINF:-1 tvg-id="59" tvg-logo="https://tele-libre.fans/img/quiero.webp" tvg-code="UXVpZXJvX0hE" tvg-keyid="a354b0c82a3a720c4a6f52ed5a1190f4" tvg-drmkey="45a76dcc84f058cfabc8b958d7303b28" group-title="MUSICA",Quiero MÃºsica
+#EXTINF:-1 tvg-id="59" tvg-logo="https://tele-libre.fans/img/quiero.webp" tvg-code="UXVpZXJvX0hE" tvg-keyid="a354b0c82a3a720c4a6f52ed5a1190f4" tvg-drmkey="45a76dcc84f058cfabc8b958d7303b28" group-title="MUSICA",Quiero Música
 flow://UXVpZXJvX0hE
-#EXTINF:-1 tvg-id="60" tvg-logo="https://tele-libre.fans/img/lanacion.webp" tvg-code="TGFfTmFjaW9u" tvg-keyid="f4eade7bbc39b25402acfa301bbad04a" tvg-drmkey="a74d1df4235a74878327aa8d53ff283c" group-title="AIRE",La NaciÃ³n +
+#EXTINF:-1 tvg-id="60" tvg-logo="https://tele-libre.fans/img/lanacion.webp" tvg-code="TGFfTmFjaW9u" tvg-keyid="f4eade7bbc39b25402acfa301bbad04a" tvg-drmkey="a74d1df4235a74878327aa8d53ff283c" group-title="AIRE",La Nación +
 flow://TGFfTmFjaW9u
-#EXTINF:-1 tvg-id="61" tvg-logo="https://tele-libre.fans/img/cronica.png" tvg-code="Q3JvbmljYVRW" tvg-keyid="745e7abcc90d41ab706b2ac2f4371da3" tvg-drmkey="50acd9d19d1361cb4a8a13a867bdc352" group-title="AIRE",CrÃ³nica TV
+#EXTINF:-1 tvg-id="61" tvg-logo="https://tele-libre.fans/img/cronica.png" tvg-code="Q3JvbmljYVRW" tvg-keyid="745e7abcc90d41ab706b2ac2f4371da3" tvg-drmkey="50acd9d19d1361cb4a8a13a867bdc352" group-title="AIRE",Cronica TV
 flow://Q3JvbmljYVRW
 #EXTINF:-1 tvg-id="62" tvg-logo="https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png" tvg-code="QzVO" tvg-keyid="050df5c6e78c774e78c3e99eef8a1b29" tvg-drmkey="0e4141d6ab21a36cbc4da777ab3096d4" group-title="AIRE",C5N
 flow://QzVO
-#EXTINF:-1 tvg-id="63" tvg-logo="https://tele-libre.fans/img/america.webp" tvg-code="QW1lcmljYVRW" tvg-keyid="8ea235ce0826408b221c498115a9b62d" tvg-drmkey="7aa9266ed91ea4510483370029dfcf45" group-title="AIRE",AmÃ©rica TV
+#EXTINF:-1 tvg-id="63" tvg-logo="https://tele-libre.fans/img/america.webp" tvg-code="QW1lcmljYVRW" tvg-keyid="8ea235ce0826408b221c498115a9b62d" tvg-drmkey="7aa9266ed91ea4510483370029dfcf45" group-title="AIRE",América TV
 flow://QW1lcmljYVRW
 #EXTINF:-1 tvg-id="64" tvg-logo="https://tele-libre.fans/img/a24.webp" tvg-code="QW1lcmljYTI0" tvg-keyid="3b1b027dd011af20fd9956c16dc084fb" tvg-drmkey="45f75aacf06593c9b693fe427c67e5b8" group-title="AIRE",A24
 flow://QW1lcmljYTI0
 #EXTINF:-1 tvg-id="65" tvg-logo="https://tele-libre.fans/img/tn.png" tvg-code="VG9kb05vdGljaWFz" tvg-keyid="7ceb1cd0622cd7e88fcdc99fe3a55de6" tvg-drmkey="951637093d41c7388a1ef3f620cfea21" group-title="AIRE",TN
 flow://VG9kb05vdGljaWFz
-#EXTINF:-1 tvg-id="66" tvg-logo="https://tele-libre.fans/img/argentinisima.png" tvg-code="QXJnZW50aW5pc2ltYQ==" tvg-keyid="a6243f46366445ebbf3117ec27365481" tvg-drmkey="81667cdc3bcf19a6a66c0919fa00a20b" group-title="AIRE",Argentinisima
-flow://QXJnZW50aW5pc2ltYQ==
+#EXTINF:-1 tvg-id="66" tvg-logo="https://tele-libre.fans/img/argentinisima.png" tvg-code="QXJnZW50aW5pc2ltYQ" tvg-keyid="a6243f46366445ebbf3117ec27365481" tvg-drmkey="81667cdc3bcf19a6a66c0919fa00a20b" group-title="AIRE",Argentinisima
+flow://QXJnZW50aW5pc2ltYQ
 #EXTINF:-1 tvg-id="67" tvg-logo="https://tele-libre.fans/img/ipnoticias.webp" tvg-code="SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=" tvg-keyid="5299f96f873aa0f0e47edc4e15784717" tvg-drmkey="9d53176b0969492f2d93f1867be1dce1" group-title="AIRE",IP Noticias
 flow://SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=
-#EXTINF:-1 tvg-id="68" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" tvg-code="RVNQTjM=" tvg-keyid="f4c9f97e2a36feab0e5077f2b44cbc4e" tvg-drmkey="1743cd03dfe3736b2c95da91a783af38" group-title="DEPORTES",ESPN 3
-flow://RVNQTjM=
+#EXTINF:-1 tvg-id="68" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" tvg-code="RVNQTjM" tvg-keyid="f4c9f97e2a36feab0e5077f2b44cbc4e" tvg-drmkey="1743cd03dfe3736b2c95da91a783af38" group-title="DEPORTES",ESPN 3
+flow://RVNQTjM
 #EXTINF:-1 tvg-id="69" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png" tvg-code="RVNQTkhE" tvg-keyid="cc8d44406ed6bf1898ad9f7a2d64f29e" tvg-drmkey="fb85d059687ab0fc67805806204edbdf" group-title="DEPORTES",ESPN 4
 flow://RVNQTkhE
 #EXTINF:-1 tvg-id="70" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png" tvg-code="RVNQTjQ=" tvg-keyid="24f2b3e741f0d9e9a8d516faff38bddc" tvg-drmkey="bbd3fd02fb104e1463ac528a13f67e4a" group-title="DEPORTES",ESPN 5
@@ -145,12 +153,12 @@ flow://RVNQTjQ=
 flow://Rm94U3BvcnRzM19VWQ==
 #EXTINF:-1 tvg-id="72" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" tvg-code="Rm94U3BvcnRzMl9VWQ==" tvg-keyid="5fc7b662e69c0fbf8d39691166b1c919" tvg-drmkey="89157cdd25df25d56f1ecccee3850888" group-title="DEPORTES",ESPN 7 UY
 flow://Rm94U3BvcnRzMl9VWQ==
-#EXTINF:-1 tvg-id="73" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" tvg-code="RVNQTl9VWQ==" tvg-keyid="6362e1f36fcb7ee3c47debd9140336ad" tvg-drmkey="9ba1d46c5b9c7a3130a5dabbf7155175" group-title="DEPORTES",ESPN 1 UY
-flow://RVNQTl9VWQ==
-#EXTINF:-1 tvg-id="74" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-2-ar.png" tvg-code="RVNQTjJfVVk=" tvg-keyid="0d820100144772fed9f38b83650fa7e1" tvg-drmkey="ded8cc47b29b0eb0b0a87df22e721847" group-title="DEPORTES",ESPN 2 UY
-flow://RVNQTjJfVVk=
-#EXTINF:-1 tvg-id="75" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" tvg-code="RVNQTjNfVXktUHk=" tvg-keyid="ed53871dc50dcdc59a6271db3c8c51b3" tvg-drmkey="0c21dc8629e3f2e6fe9efa8b80dc447e" group-title="DEPORTES",ESPN 3 UY-PY
-flow://RVNQTjNfVXktUHk=
+# #EXTINF:-1 tvg-id="73" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" tvg-code="RVNQTl9VWQ==" tvg-keyid="6362e1f36fcb7ee3c47debd9140336ad" tvg-drmkey="9ba1d46c5b9c7a3130a5dabbf7155175" group-title="DEPORTES",ESPN 1 UY
+# flow://RVNQTl9VWQ==
+# #EXTINF:-1 tvg-id="74" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-2-ar.png" tvg-code="RVNQTjJfVVk=" tvg-keyid="0d820100144772fed9f38b83650fa7e1" tvg-drmkey="ded8cc47b29b0eb0b0a87df22e721847" group-title="DEPORTES",ESPN 2 UY
+# flow://RVNQTjJfVVk=
+# #EXTINF:-1 tvg-id="75" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" tvg-code="RVNQTjNfVXktUHk=" tvg-keyid="ed53871dc50dcdc59a6271db3c8c51b3" tvg-drmkey="0c21dc8629e3f2e6fe9efa8b80dc447e" group-title="DEPORTES",ESPN 3 UY-PY
+# flow://RVNQTjNfVXktUHk=
 #EXTINF:-1 tvg-id="76" tvg-logo="https://tele-libre.fans/img/deportv.webp" tvg-code="RGVwb3JUVkhE" tvg-keyid="f362097815892a4b83950f1d106ff0b2" tvg-drmkey="4349e42e81c31a8389f4a42fcd298928" group-title="DEPORTES",DeporTV
 flow://RGVwb3JUVkhE
 #EXTINF:-1 tvg-id="77" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/nba-tv-ar.png" tvg-code="TkJBX1RW" tvg-keyid="d0c38de3c9844e4e9f975dffb3eff8ad" tvg-drmkey="141ca0fdf6ebadfa7107576b8e09e117" group-title="DEPORTES",NBA TV
@@ -191,14 +199,14 @@ flow://QnJhdm9UVg==
 flow://VGV2ZV9DaXVkYWQ=
 #EXTINF:-1 tvg-id="95" tvg-logo="https://tele-libre.fans/img/euronews.png" tvg-code="RXVyb25ld3M=" tvg-keyid="d86b0f56d32f45adb0a6b4e488c8f0c2" tvg-drmkey="e4f180b0e61be3e80ab602df5e56ff3f" group-title="INTERNACIONAL",Euronews
 flow://RXVyb25ld3M=
-#EXTINF:-1 tvg-id="96" tvg-logo="https://tele-libre.fans/img/cm.webp" tvg-code="Q00=" tvg-keyid="682f36b5736f4560951ca14b80d29524" tvg-drmkey="3accb729067a39b3b8143f1b447b9d25" group-title="MUSICA",CM El Canal de la MÃºsica
+#EXTINF:-1 tvg-id="96" tvg-logo="https://tele-libre.fans/img/cm.webp" tvg-code="Q00=" tvg-keyid="682f36b5736f4560951ca14b80d29524" tvg-drmkey="3accb729067a39b3b8143f1b447b9d25" group-title="MUSICA",CM El Canal de la Música
 flow://Q00=
 #EXTINF:-1 tvg-id="97" tvg-logo="https://tele-libre.fans/img/e=.webp" tvg-code="RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=" tvg-keyid="5883553207f13e3dc8cecd1113d5ba68" tvg-drmkey="45434d40636dfa0e5312b93218e02185" group-title="VARIEDADES",E! Entertainment
 flow://RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=
 #EXTINF:-1 tvg-id="98" tvg-logo="https://tele-libre.fans/img/food.webp" tvg-code="Rm9vZF9OZXR3b3Jr" tvg-keyid="6ca0fbad21a0e908c0280dcc27e6ee0e" tvg-drmkey="62670eedbafdf9360b4ecaed738e26cd" group-title="VARIEDADES",Food Network
 flow://Rm9vZF9OZXR3b3Jr
-#EXTINF:-1 tvg-id="99" tvg-logo="https://tele-libre.fans/img/snt.webp" tvg-code="U05UX0M0" tvg-keyid="9f61dcce871cc41aeb206d05028fc30a" tvg-drmkey="9f6248194a3bf5e35b96b194e8624693" group-title="INTERNACIONAL",SNT Paraguay
-flow://U05UX0M0
+# #EXTINF:-1 tvg-id="99" tvg-logo="https://tele-libre.fans/img/snt.webp" tvg-code="U05UX0M0" tvg-keyid="9f61dcce871cc41aeb206d05028fc30a" tvg-drmkey="9f6248194a3bf5e35b96b194e8624693" group-title="INTERNACIONAL",SNT Paraguay
+# flow://U05UX0M0
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tele-libre.fans/img/noticiaspy.png" tvg-code="Tk9USUNJQVNfUFlfQzQ=" tvg-keyid="8f66fe15735b2b1b3d5eb3646caa405e" tvg-drmkey="404b93fd7b499b1061c9a714e1cdb2d0" group-title="INTERNACIONAL",NPY Paraguay
 flow://Tk9USUNJQVNfUFlfQzQ=
 #EXTINF:-1 tvg-id="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png" tvg-code="UEFSQVZJU0lPTl9DNA==" tvg-keyid="bd8e8c9b32ef027e8ff4ff0cfce855a4" tvg-drmkey="2918e9893b570c3fa1f215b52a12cc91" group-title="INTERNACIONAL",Paravision PY
@@ -209,43 +217,43 @@ flow://TEFfVEVMRV9DNA==
 flow://QzlOX0M0
 #EXTINF:-1 tvg-id="104" tvg-logo="https://tele-libre.fans/img/paraguaytv.png" tvg-code="UGFyYWd1YXlfVFY=" tvg-keyid="68a5bd6c58e6c05bacfd18d3feec31f2" tvg-drmkey="ae23f8357512df2dfabcb8104b078182" group-title="INTERNACIONAL",Paraguay TV
 flow://UGFyYWd1YXlfVFY=
-#EXTINF:-1 tvg-id="105" tvg-logo="https://tele-libre.fans/img/12cordoba.png" tvg-code="Q2FuYWxfMTJfQ0JB" tvg-keyid="90422640d3e846159fa450f83870ed4a" tvg-drmkey="abb3cd94aece1a462df25a8f21085cca" group-title="PROVINCIALES",Canal 12 CÃ³rdoba
-flow://Q2FuYWxfMTJfQ0JB
+# #EXTINF:-1 tvg-id="105" tvg-logo="https://tele-libre.fans/img/12cordoba.png" tvg-code="Q2FuYWxfMTJfQ0JB" tvg-keyid="90422640d3e846159fa450f83870ed4a" tvg-drmkey="abb3cd94aece1a462df25a8f21085cca" group-title="PROVINCIALES",Canal 12 CÃ³rdoba
+# flow://Q2FuYWxfMTJfQ0JB
 #EXTINF:-1 tvg-id="106" tvg-logo="https://tele-libre.fans/img/garagetv.webp" tvg-code="RWxfR2FyYWdl" tvg-keyid="03d1dfb8df034d8b81e57753df00a36d" tvg-drmkey="08d83660db4a73bb1d61d60b09df5f4d" group-title="DEPORTES",El Garage TV
 flow://RWxfR2FyYWdl
-#EXTINF:-1 tvg-id="107" tvg-logo="https://tele-libre.fans/img/telemax.webp" tvg-code="VGVsZW1heA==" tvg-keyid="e7ec364ad6854fedad797538cb58780d" tvg-drmkey="57dfb3fca2ca35b37ff81c35595e9be8" group-title="AIRE",Telemax
-flow://VGVsZW1heA==
+#EXTINF:-1 tvg-id="107" tvg-logo="https://tele-libre.fans/img/telemax.webp" tvg-code="VGVsZW1heA" tvg-keyid="e7ec364ad6854fedad797538cb58780d" tvg-drmkey="57dfb3fca2ca35b37ff81c35595e9be8" group-title="AIRE",Telemax
+flow://VGVsZW1heA
 #EXTINF:-1 tvg-id="108" tvg-logo="https://tele-libre.fans/img/nettv.webp" tvg-code="TmV0X1RW" tvg-keyid="89d433166edd31d56df2a59df8ec6704" tvg-drmkey="b2015faded0a456d10aa8db1b4cbac68" group-title="AIRE",Net TV
 flow://TmV0X1RW
-#EXTINF:-1 tvg-id="109" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/el-ocho-tv-ar.png" tvg-code="Q2FuYWxfOF9UdWN1bWFu" tvg-keyid="7760caa058b51b7cce151c0539fa4a8f" tvg-drmkey="edd086c1011ed2c54cbe869d0e8d9289" group-title="PROVINCIALES",El Ocho Tv
-flow://Q2FuYWxfOF9UdWN1bWFu
+# #EXTINF:-1 tvg-id="109" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/el-ocho-tv-ar.png" tvg-code="Q2FuYWxfOF9UdWN1bWFu" tvg-keyid="7760caa058b51b7cce151c0539fa4a8f" tvg-drmkey="edd086c1011ed2c54cbe869d0e8d9289" group-title="PROVINCIALES",El Ocho Tv
+# flow://Q2FuYWxfOF9UdWN1bWFu
 #EXTINF:-1 tvg-id="110" tvg-logo="https://tele-libre.fans/img/encuentro.webp" tvg-code="RW5jdWVudHJv" tvg-keyid="ac3ae78beb64478ab390b4ad70e3e0c9" tvg-drmkey="c7d669761c3516d852a0edf9e07c9198" group-title="AIRE",Encuentro
 flow://RW5jdWVudHJv
-#EXTINF:-1 tvg-id="111" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWMf7LwqNQVfd5QuaKolBDD82zAuX0ZHcWCab1kmCufifc5QspjdfBSWGtYk0-TIFuT5hVqM_CQzTgs--sztYBK1oWVae-TB5oZEM725jKLhgiJDc14_rYiU70wn6vvqceTkRjUVYcIoxZF6iACDFjEciVB2bGdxY8EzEAO7HHjMm_M0yuY4QczO1E/s382/canal7-nqn.png" tvg-code="VGVsZWZlX05ldXF1ZW4=" tvg-keyid="55828b728b8affe6d1d57d050025645d" tvg-drmkey="8ac11ed6d0ccaeac3f8218419f65bb94" group-title="PROVINCIALES",Telefe NeuquÃ©n
-flow://VGVsZWZlX05ldXF1ZW4=
-#EXTINF:-1 tvg-id="112" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/elonce-ar.png" tvg-code="VGVsZWZlX1NhbHRh" tvg-keyid="6c7a5de392f874308e4dd8f2837f1115" tvg-drmkey="9ccf9ec6922c403d67d0df7952547581" group-title="PROVINCIALES",El Once Tv
-flow://VGVsZWZlX1NhbHRh
-#EXTINF:-1 tvg-id="113" tvg-logo="https://i.postimg.cc/nzW4d2X7/Canal-Metro.png" tvg-code="TWV0cm8=" tvg-keyid="719aa3a5e270c7f69eba374ed80d7986" tvg-drmkey="97ac59118cf4cf242e2c31e87cd38e1e" group-title="VARIEDADES",Metro
-flow://TWV0cm8=
+# #EXTINF:-1 tvg-id="111" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWMf7LwqNQVfd5QuaKolBDD82zAuX0ZHcWCab1kmCufifc5QspjdfBSWGtYk0-TIFuT5hVqM_CQzTgs--sztYBK1oWVae-TB5oZEM725jKLhgiJDc14_rYiU70wn6vvqceTkRjUVYcIoxZF6iACDFjEciVB2bGdxY8EzEAO7HHjMm_M0yuY4QczO1E/s382/canal7-nqn.png" tvg-code="VGVsZWZlX05ldXF1ZW4=" tvg-keyid="55828b728b8affe6d1d57d050025645d" tvg-drmkey="8ac11ed6d0ccaeac3f8218419f65bb94" group-title="PROVINCIALES",Telefe NeuquÃ©n
+# flow://VGVsZWZlX05ldXF1ZW4=
+# #EXTINF:-1 tvg-id="112" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/elonce-ar.png" tvg-code="VGVsZWZlX1NhbHRh" tvg-keyid="6c7a5de392f874308e4dd8f2837f1115" tvg-drmkey="9ccf9ec6922c403d67d0df7952547581" group-title="PROVINCIALES",El Once Tv
+# flow://VGVsZWZlX1NhbHRh
+#EXTINF:-1 tvg-id="113" tvg-logo="https://i.postimg.cc/nzW4d2X7/Canal-Metro.png" tvg-code="TWV0cm8" tvg-keyid="719aa3a5e270c7f69eba374ed80d7986" tvg-drmkey="97ac59118cf4cf242e2c31e87cd38e1e" group-title="VARIEDADES",Metro
+flow://TWV0cm8
 #EXTINF:-1 tvg-id="114" tvg-logo="https://tele-libre.fans/img/gen.webp" tvg-code="R0VOX1RW" tvg-keyid="49eb924ba998ca7fbbaee30dcef1ecb4" tvg-drmkey="6e131b04b2e87598fb588ac205673698" group-title="OTROS",GEN TV
 flow://R0VOX1RW
-#EXTINF:-1 tvg-id="115" tvg-logo="https://tele-libre.fans/img/bbc.png" tvg-code="QkJDX1dvcmxkX05ld3M=" tvg-keyid="019f72f2091d4cbea59ff8c85b117f86" tvg-drmkey="a4eac51195506752f9f63ad24def9c37" group-title="INTERNACIONAL",BBC World News
-flow://QkJDX1dvcmxkX05ld3M=
-#EXTINF:-1 tvg-id="116" tvg-logo="https://tele-libre.fans/img/telefe.png" tvg-code="Q2FuYWxfNV9Sb3Nhcmlv" tvg-keyid="c61b5ac8e1664bf5b544e92ea2597e1c" tvg-drmkey="938437ac25f0a18e04efc1a083489edc" group-title="PROVINCIALES",Canal 5 Rosario
-flow://Q2FuYWxfNV9Sb3Nhcmlv
-#EXTINF:-1 tvg-id="117" tvg-logo="https://tele-libre.fans/img/telefe.png" tvg-code="Q2FuYWxfOF9DQkE=" tvg-keyid="103ce214b4d04c8eb4dd43670e956dad" tvg-drmkey="20e030576b8dc4df0d1c68e16af3bc0f" group-title="PROVINCIALES",Canal 8 CÃ³rdoba
-flow://Q2FuYWxfOF9DQkE=
+#EXTINF:-1 tvg-id="115" tvg-logo="https://tele-libre.fans/img/bbc.png" tvg-code="QkJDX1dvcmxkX05ld3M" tvg-keyid="019f72f2091d4cbea59ff8c85b117f86" tvg-drmkey="a4eac51195506752f9f63ad24def9c37" group-title="INTERNACIONAL",BBC World News
+flow://QkJDX1dvcmxkX05ld3M
+# #EXTINF:-1 tvg-id="116" tvg-logo="https://tele-libre.fans/img/telefe.png" tvg-code="Q2FuYWxfNV9Sb3Nhcmlv" tvg-keyid="c61b5ac8e1664bf5b544e92ea2597e1c" tvg-drmkey="938437ac25f0a18e04efc1a083489edc" group-title="PROVINCIALES",Canal 5 Rosario
+# flow://Q2FuYWxfNV9Sb3Nhcmlv
+# #EXTINF:-1 tvg-id="117" tvg-logo="https://tele-libre.fans/img/telefe.png" tvg-code="Q2FuYWxfOF9DQkE=" tvg-keyid="103ce214b4d04c8eb4dd43670e956dad" tvg-drmkey="20e030576b8dc4df0d1c68e16af3bc0f" group-title="PROVINCIALES",Canal 8 CÃ³rdoba
+# flow://Q2FuYWxfOF9DQkE=
 #EXTINF:-1 tvg-id="118" tvg-logo="https://tele-libre.fans/img/dtv.webp" tvg-code="RGlwdXRhZG9zX1RW" tvg-keyid="9666b195171442afd4551a8de01291a6" tvg-drmkey="1c0061df9b4b098e40355167e97cfbf0" group-title="AIRE",Diputados TV
 flow://RGlwdXRhZG9zX1RW
-#EXTINF:-1 tvg-id="119" tvg-logo="https://tele-libre.fans/img/canal26.webp" tvg-code="MjZfVFZfSEQ=" tvg-keyid="e32aaa4b67430b3b51be1efce5a74ac5" tvg-drmkey="ad60c5e1d378a97271bf8688f094d092" group-title="AIRE",Canal 26
-flow://MjZfVFZfSEQ=
+#EXTINF:-1 tvg-id="119" tvg-logo="https://tele-libre.fans/img/canal26.webp" tvg-code="MjZfVFZfSEQ" tvg-keyid="e32aaa4b67430b3b51be1efce5a74ac5" tvg-drmkey="ad60c5e1d378a97271bf8688f094d092" group-title="AIRE",Canal 26
+flow://MjZfVFZfSEQ
 #EXTINF:-1 tvg-id="120" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" tvg-code="Rm94U3BvcnRz" tvg-keyid="cbc2a0c7a38df0aa3333cd71841d3b0d" tvg-drmkey="aac61b730e2ac1df23f1e872e7541c1b" group-title="DEPORTES",Fox Sports
 flow://Rm94U3BvcnRz
 #EXTINF:-1 tvg-id="121" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" tvg-code="Rm94U3BvcnRzMkhE" tvg-keyid="c98ddffc470fe449ae1a8d6492116976" tvg-drmkey="5086d370e840010232cf4532b16e197f" group-title="DEPORTES",Fox Sports 2
 flow://Rm94U3BvcnRzMkhE
 #EXTINF:-1 tvg-id="122" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-3-ar.png" tvg-code="Rm94U3BvcnRzM0hE" tvg-keyid="55b47390cf9e4997dae6dac85e057875" tvg-drmkey="fa39e855543c5d70f30600d59e5e4c1b" group-title="DEPORTES",Fox Sports 3
 flow://Rm94U3BvcnRzM0hE
-#EXTINF:-1 tvg-id="123" tvg-logo="https://tele-libre.fans/img/tvpublica.webp" tvg-code="Q2FuYWw3" tvg-keyid="cc8c82ac2ec7e9799527c29db7354e81" tvg-drmkey="cc4aae173dd2ef17ae26be3f7ae87662" group-title="AIRE",TV PÃºblica
+#EXTINF:-1 tvg-id="123" tvg-logo="https://tele-libre.fans/img/tvpublica.webp" tvg-code="Q2FuYWw3" tvg-keyid="cc8c82ac2ec7e9799527c29db7354e81" tvg-drmkey="cc4aae173dd2ef17ae26be3f7ae87662" group-title="AIRE",TV Pública
 flow://Q2FuYWw3
 #EXTINF:-1 tvg-id="124" tvg-logo="https://tele-libre.fans/img/distheater.webp" tvg-code="VGhlYXRlcl9IRA==" tvg-keyid="5279c05ea51c4dae8e7fa6be88448089" tvg-drmkey="b28dfafba4b848dfd5d7c177ebf19108" group-title="DOCUMENTALES",Discovery Theater
 flow://VGhlYXRlcl9IRA==
@@ -271,131 +279,131 @@ flow://TVRWX0hE
 flow://VFZfRXNwYW5h
 #EXTINF:-1 tvg-id="135" tvg-logo="https://tele-libre.fans/img/volver.webp" tvg-code="Vm9sdmVy" tvg-keyid="194e53184a424ce6989ad82c5f28fbc5" tvg-drmkey="65d60c5cc4de031172be0a6a51edbdfe" group-title="AIRE",Volver
 flow://Vm9sdmVy
-#EXTINF:-1 tvg-id="136" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbcJt_W-bf0bjMY1VTfiJmDXARRPG1qegp6ZNUdJgtCmn0USh0HuEQ80WqEIN8WUa6PZlXCIzJTPLcBK0KkhakRKHw1BFEUfSnQ6c_cv1G-s5tunRemCrYrneCgHuSzEPfPbAkImA_LNg/s1600/telesur-2010.jpg" tvg-code="VGVsZXN1cg==" tvg-keyid="5235d8ee29f14ce6b26ea5d828aee77a" tvg-drmkey="6bf6bd339e3098babc2ab0b984cd2376" group-title="INTERNACIONAL",Telesur
-flow://VGVsZXN1cg==
-#EXTINF:-1 tvg-id="137" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png" tvg-code="QW50ZW5hXzM=" tvg-keyid="1e1ad422a6714482b66fa702c16e50c6" tvg-drmkey="4fdf28a0ab91356ca55a75f4e9bf8c92" group-title="INTERNACIONAL",Antena 3
-flow://QW50ZW5hXzM=
+# #EXTINF:-1 tvg-id="136" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbcJt_W-bf0bjMY1VTfiJmDXARRPG1qegp6ZNUdJgtCmn0USh0HuEQ80WqEIN8WUa6PZlXCIzJTPLcBK0KkhakRKHw1BFEUfSnQ6c_cv1G-s5tunRemCrYrneCgHuSzEPfPbAkImA_LNg/s1600/telesur-2010.jpg" tvg-code="VGVsZXN1cg==" tvg-keyid="5235d8ee29f14ce6b26ea5d828aee77a" tvg-drmkey="6bf6bd339e3098babc2ab0b984cd2376" group-title="INTERNACIONAL",Telesur
+# flow://VGVsZXN1cg==
+# #EXTINF:-1 tvg-id="137" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png" tvg-code="QW50ZW5hXzM=" tvg-keyid="1e1ad422a6714482b66fa702c16e50c6" tvg-drmkey="4fdf28a0ab91356ca55a75f4e9bf8c92" group-title="INTERNACIONAL",Antena 3
+# flow://QW50ZW5hXzM=
 #EXTINF:-1 tvg-id="138" tvg-logo="https://tele-libre.fans/img/foxnews.png" tvg-code="Rm94X05ld3M=" tvg-keyid="3fe3f31a5e7b48a1b548e9364757ce66" tvg-drmkey="32993fc281207fe915f6f1e990957868" group-title="INTERNACIONAL",Fox News
 flow://Rm94X05ld3M=
-#EXTINF:-1 tvg-id="139" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioMxZH005boZkmvgdunEHzEodX4TMBMk7PQK7MXw2iBJ7TnRZYbM_FU3exLkfjIPGw6HWT9iOWZMhRBg_JXobqkgk5NApfQpaL3jx-LASjLaXLBtdjG4tvYycP9PIRRs7KaN4uzgfICfS-Eew7QChrlCmIp5P0S7gsSCXqJsfy1HhFr1detPdC2_qw/s1600/TV_Chile_2020.png" tvg-code="VHZfQ2hpbGU=" tvg-keyid="c5d0d76e24844235988f9265619e5fec" tvg-drmkey="446b71a6deb806c6f129e25de999d07c" group-title="INTERNACIONAL",TV Chile
-flow://VHZfQ2hpbGU=
+# #EXTINF:-1 tvg-id="139" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioMxZH005boZkmvgdunEHzEodX4TMBMk7PQK7MXw2iBJ7TnRZYbM_FU3exLkfjIPGw6HWT9iOWZMhRBg_JXobqkgk5NApfQpaL3jx-LASjLaXLBtdjG4tvYycP9PIRRs7KaN4uzgfICfS-Eew7QChrlCmIp5P0S7gsSCXqJsfy1HhFr1detPdC2_qw/s1600/TV_Chile_2020.png" tvg-code="VHZfQ2hpbGU=" tvg-keyid="c5d0d76e24844235988f9265619e5fec" tvg-drmkey="446b71a6deb806c6f129e25de999d07c" group-title="INTERNACIONAL",TV Chile
+# flow://VHZfQ2hpbGU=
 #EXTINF:-1 tvg-id="140" tvg-logo="https://tele-libre.fans/img/discovery.webp" tvg-code="RGlzY292ZXJ5SEQ=" tvg-keyid="c283c84a7af0d7c8b9b612a8fb22a001" tvg-drmkey="f45510c721eebd6eaa86a2e16ccbd77d" group-title="DOCUMENTALES",Discovery Channel
 flow://RGlzY292ZXJ5SEQ=
 #EXTINF:-1 tvg-id="141" tvg-logo="https://tele-libre.fans/img/sun.png" tvg-code="U3VuX0NoYW5uZWw=" tvg-keyid="158177692aa3463eae5f4e1f72403e9c" tvg-drmkey="1c6c026fba9cf7ecb576c7bedce0ead4" group-title="VARIEDADES",Sun Channel
 flow://U3VuX0NoYW5uZWw=
-#EXTINF:-1 tvg-id="142" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxqEqGXhRoJJORzHCxtoWAdfWukNcuO0pqannxgcOjUtWOWLdgYPzBIgpdfLcLFLmWij7RGH8OraFCs8nxrfrDh77U2_2NtE21Nh-egjnTfj7GorYKdqajIEXxJ_tUEzJb06K0-lDERZQ/s1600/rai-2017.png" tvg-code="UkFJ" tvg-keyid="d214547d7d9a4011a39a899ce6e70071" tvg-drmkey="16c2ed0617cf1e123f3af6ea8875a82d" group-title="INTERNACIONAL",RAI Italia
-flow://UkFJ
+# #EXTINF:-1 tvg-id="142" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxqEqGXhRoJJORzHCxtoWAdfWukNcuO0pqannxgcOjUtWOWLdgYPzBIgpdfLcLFLmWij7RGH8OraFCs8nxrfrDh77U2_2NtE21Nh-egjnTfj7GorYKdqajIEXxJ_tUEzJb06K0-lDERZQ/s1600/rai-2017.png" tvg-code="UkFJ" tvg-keyid="d214547d7d9a4011a39a899ce6e70071" tvg-drmkey="16c2ed0617cf1e123f3af6ea8875a82d" group-title="INTERNACIONAL",RAI Italia
+# flow://UkFJ
 #EXTINF:-1 tvg-id="143" tvg-logo="https://tele-libre.fans/img/flowmusic.webp" tvg-code="Rmxvd19NdXNpY19YUA==" tvg-keyid="b2aae44a74144be8b2118e20d1412bab" tvg-drmkey="8a7ae996d12d8d5d5637d1044f8e08b7" group-title="MUSICA",Flow Music XP
 flow://Rmxvd19NdXNpY19YUA==
 # #EXTINF:-1 tvg-id="144" tvg-logo="https://tele-libre.fans/img/flowmusic.webp" tvg-code="Rmxvd19NdXNpY18y" tvg-keyid="596b599580b39ae2f3c413f7eae36902" tvg-drmkey="2d7e3d5d31f68690fd877a111f84e8e3" group-title="MUSICA",Flow Music 2
 # flow://Rmxvd19NdXNpY18y
-#EXTINF:-1 tvg-id="195" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" tvg-code="Rmxvd19NdXNpY18x" tvg-keyid="f34cd7709f093d23d4db009107d96862" tvg-drmkey="d8a829138d970b45e867c9733a31b2f0" group-title="OTROS",Flow Music 2
-flow://Rmxvd19NdXNpY18x
+# #EXTINF:-1 tvg-id="195" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" tvg-code="Rmxvd19NdXNpY18x" tvg-keyid="f34cd7709f093d23d4db009107d96862" tvg-drmkey="d8a829138d970b45e867c9733a31b2f0" group-title="OTROS",Flow Music 2
+# flow://Rmxvd19NdXNpY18x
 # #EXTINF:-1 tvg-id="145" tvg-logo="https://tele-libre.fans/img/flowmusic.webp" tvg-code="Rmxvd19NdXNpY18z" tvg-keyid="e078b15ed770ec71f803c0ecc43de033" tvg-drmkey="7010bccda544f74d1b425c4cebd082d4" group-title="MUSICA",Flow Music 3
 # flow://Rmxvd19NdXNpY18z
 #EXTINF:-1 tvg-id="146" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOITtxVqvkeur8P07gwCPWJTYrVpo4k8yNFyEEkzLuWCIyc9_0NV2SM8HLm2n2-sUX-bZ45IGuDBE2XGS2hHErl8bDsaS-Dkx3rW6uf_TtMi0UtjH1AoFawLCRaftLnnXWdkrO4yjXcW6xOMJ9W-7G3XzZf4mgWDGnru_ZMJHy8vu_Cvtmh_XCwL9/s2560/flow-2021.png" tvg-code="RXZlbnRvczFIRA==" tvg-keyid="5c86e237317c2231ac1bc130e995fad6" tvg-drmkey="dcacf7b239ee03df3c69ca11dbcde4eb" group-title="DEPORTES",Eventos 1
-flow://RXZlbnRvczFIRA==
+flow://RXZlbnRvczFIRA
 #EXTINF:-1 tvg-id="147" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOITtxVqvkeur8P07gwCPWJTYrVpo4k8yNFyEEkzLuWCIyc9_0NV2SM8HLm2n2-sUX-bZ45IGuDBE2XGS2hHErl8bDsaS-Dkx3rW6uf_TtMi0UtjH1AoFawLCRaftLnnXWdkrO4yjXcW6xOMJ9W-7G3XzZf4mgWDGnru_ZMJHy8vu_Cvtmh_XCwL9/s2560/flow-2021.png" tvg-code="RXZlbnRvc18yX0hE" tvg-keyid="e54e9ea87a634658fbba0e380aa701a7" tvg-drmkey="4e486d25d7d0e7d131743b285963c643" group-title="DEPORTES",Eventos 2
 flow://RXZlbnRvc18yX0hE
-#EXTINF:-1 tvg-id="148" tvg-logo="https://i.postimg.cc/8cWwykd7/C9-Chaco.png" tvg-code="Q0hfOV9SZXNpc3RlbmNpYQ==" tvg-keyid="dde29700ee0423e1afe3828c6f251295" tvg-drmkey="1928b62bc191bd26c357137d7d909868" group-title="PROVINCIALES",Canal 9 Resistencia
-flow://Q0hfOV9SZXNpc3RlbmNpYQ==
-#EXTINF:-1 tvg-id="149" tvg-logo="https://i.postimg.cc/YCDnpv6t/Somos_Chaco.png" tvg-code="U29tb3NfUmVzaXN0ZW5jaWE=" tvg-keyid="a7c3579af87560a1dbc599c882516f95" tvg-drmkey="cdfe03336cc80ef7c3dd9eb19f298d04" group-title="PROVINCIALES",Somos Resistencia
-flow://U29tb3NfUmVzaXN0ZW5jaWE=
+# #EXTINF:-1 tvg-id="148" tvg-logo="https://i.postimg.cc/8cWwykd7/C9-Chaco.png" tvg-code="Q0hfOV9SZXNpc3RlbmNpYQ==" tvg-keyid="dde29700ee0423e1afe3828c6f251295" tvg-drmkey="1928b62bc191bd26c357137d7d909868" group-title="PROVINCIALES",Canal 9 Resistencia
+# flow://Q0hfOV9SZXNpc3RlbmNpYQ==
+# #EXTINF:-1 tvg-id="149" tvg-logo="https://i.postimg.cc/YCDnpv6t/Somos_Chaco.png" tvg-code="U29tb3NfUmVzaXN0ZW5jaWE=" tvg-keyid="a7c3579af87560a1dbc599c882516f95" tvg-drmkey="cdfe03336cc80ef7c3dd9eb19f298d04" group-title="PROVINCIALES",Somos Resistencia
+# flow://U29tb3NfUmVzaXN0ZW5jaWE=
 # ==== nuevos
-#EXTINF:-1 tvg-id="150" tvg-logo="http://postimg.cc/v16m1qmg" tvg-code="Q0hfMTNfQ29ycmllbnRlcw==" tvg-keyid="ee837d0ec414d95a51b0c7a57d49d307" tvg-drmkey="883fd72dc9b72db33d7b4f8dc0eb0016" group-title="PROVINCIALES",13 MAX TV Corrientes
-flow://Q0hfMTNfQ29ycmllbnRlcw==
+# #EXTINF:-1 tvg-id="150" tvg-logo="http://postimg.cc/v16m1qmg" tvg-code="Q0hfMTNfQ29ycmllbnRlcw==" tvg-keyid="ee837d0ec414d95a51b0c7a57d49d307" tvg-drmkey="883fd72dc9b72db33d7b4f8dc0eb0016" group-title="PROVINCIALES",13 MAX TV Corrientes
+# flow://Q0hfMTNfQ29ycmllbnRlcw==
 # #EXTINF:-1 tvg-id="151" tvg-logo="" tvg-code="Q2FuYWwxMF9DQkFfSEQ==" tvg-keyid="6d85fcc70989d0dbe8d70dd70a4629c0" tvg-drmkey="a953290192fd5db5bf7936a88ecc6877" group-title="PROVINCIALES",Canal 10 CÃ³rdoba
 # flow://Q2FuYWwxMF9DQkFfSEQ==
-#EXTINF:-1 tvg-id="152" tvg-logo="https://i.postimg.cc/6pbj98r6/Somos_Corrientes.png" tvg-code="U29tb3NfQ29ycmllbnRlcw==" tvg-keyid="f0179a4ba9f407dfdee057a33f8f220c" tvg-drmkey="e0c3f11cb1d7f8d17b7a1532f29edb0b" group-title="PROVINCIALES",Somos Corrientes
-flow://U29tb3NfQ29ycmllbnRlcw==
-#EXTINF:-1 tvg-id="153" tvg-logo="https://i.postimg.cc/Mp2Wz5mw/Somos_Entre_RÃ­os.png" tvg-code="U29tb3NfUGFyYW5h" tvg-keyid="726c0ccee1985d0d59738bfe8e9aee2b" tvg-drmkey="0ff2c5a2381d8f0b7b92565dceb4ca58" group-title="PROVINCIALES",Somos Entre Rios
-flow://U29tb3NfUGFyYW5h
-#EXTINF:-1 tvg-id="154" tvg-logo="https://i.postimg.cc/tJpZPprK/LEP.png" tvg-code="Q2FuYWxfMTFfRm9ybW9zYQ==" tvg-keyid="78cbce875d90e04f3f2b2e26261d5255" tvg-drmkey="d6c6a3c3ec898483608ff39e086cad66" group-title="PROVINCIALES",Lapacho TV Formosa
-flow://Q2FuYWxfMTFfRm9ybW9zYQ==
+# #EXTINF:-1 tvg-id="152" tvg-logo="https://i.postimg.cc/6pbj98r6/Somos_Corrientes.png" tvg-code="U29tb3NfQ29ycmllbnRlcw==" tvg-keyid="f0179a4ba9f407dfdee057a33f8f220c" tvg-drmkey="e0c3f11cb1d7f8d17b7a1532f29edb0b" group-title="PROVINCIALES",Somos Corrientes
+# flow://U29tb3NfQ29ycmllbnRlcw==
+# #EXTINF:-1 tvg-id="153" tvg-logo="https://i.postimg.cc/Mp2Wz5mw/Somos_Entre_RÃ­os.png" tvg-code="U29tb3NfUGFyYW5h" tvg-keyid="726c0ccee1985d0d59738bfe8e9aee2b" tvg-drmkey="0ff2c5a2381d8f0b7b92565dceb4ca58" group-title="PROVINCIALES",Somos Entre Rios
+# flow://U29tb3NfUGFyYW5h
+# #EXTINF:-1 tvg-id="154" tvg-logo="https://i.postimg.cc/tJpZPprK/LEP.png" tvg-code="Q2FuYWxfMTFfRm9ybW9zYQ==" tvg-keyid="78cbce875d90e04f3f2b2e26261d5255" tvg-drmkey="d6c6a3c3ec898483608ff39e086cad66" group-title="PROVINCIALES",Lapacho TV Formosa
+# flow://Q2FuYWxfMTFfRm9ybW9zYQ==
 # #EXTINF:-1 tvg-id="155" tvg-logo="https://i.postimg.cc/ZqF4KTvr/Al-Jazeera.png" tvg-code="QWxsamF6emVyYQ==" tvg-keyid="7aa008e0092f4475a414584368a043c4" tvg-drmkey="a3882463c009fd78290cac6c9b958ca1" group-title="OTROS",Al Jazeera
 # flow://QWxsamF6emVyYQ==
-#EXTINF:-1 tvg-id="156" tvg-logo="https://i.postimg.cc/rFv7K69q/Logo_1.png" tvg-code="QWxsZWdyb0hE" tvg-keyid="e55e61b81b992d6c21466891d72157e9" tvg-drmkey="566d341bf7209a88976e75c20ad7aca2" group-title="OTROS",Allegro
-flow://QWxsZWdyb0hE
-#EXTINF:-1 tvg-id="157" tvg-logo="https://i.postimg.cc/fWrf82xx/Logo-2.png" tvg-code="QW1lcmljYV9TcG9ydHM=" tvg-keyid="a0aa01337a2148bda1e21862295ae037" tvg-drmkey="fee0f87a0527497351fc54ce36ad1de2" group-title="DEPORTES",AmÃ©rica Sports
+# #EXTINF:-1 tvg-id="156" tvg-logo="https://i.postimg.cc/rFv7K69q/Logo_1.png" tvg-code="QWxsZWdyb0hE" tvg-keyid="e55e61b81b992d6c21466891d72157e9" tvg-drmkey="566d341bf7209a88976e75c20ad7aca2" group-title="OTROS",Allegro
+# flow://QWxsZWdyb0hE
+#EXTINF:-1 tvg-id="157" tvg-logo="https://i.postimg.cc/fWrf82xx/Logo-2.png" tvg-code="QW1lcmljYV9TcG9ydHM=" tvg-keyid="a0aa01337a2148bda1e21862295ae037" tvg-drmkey="fee0f87a0527497351fc54ce36ad1de2" group-title="DEPORTES",América Sports
 flow://QW1lcmljYV9TcG9ydHM=
-#EXTINF:-1 tvg-id="158" tvg-logo="https://i.postimg.cc/tJftLnGp/unnamed-removebg-preview.png" tvg-code="QW1lcmljYV9UdWN1bWFu" tvg-keyid="ed542fdaa4598671e26aca3e160afed7" tvg-drmkey="cdb880c60523b9ebc61b9003c41f8048" group-title="PROVINCIALES",AmÃ©rica TucumÃ¡n
-flow://QW1lcmljYV9UdWN1bWFu
-#EXTINF:-1 tvg-id="159" tvg-logo="https://i.postimg.cc/htVqpSrp/Arirang.png" tvg-code="QXJpcmFuZw==" tvg-keyid="436d78a75fad9bdcc6d409640c116a62" tvg-drmkey="c77471ac3b694513a9c5ff68b8d4fac5" group-title="INTERNACIONAL",Arirang
-flow://QXJpcmFuZw==
+# #EXTINF:-1 tvg-id="158" tvg-logo="https://i.postimg.cc/tJftLnGp/unnamed-removebg-preview.png" tvg-code="QW1lcmljYV9UdWN1bWFu" tvg-keyid="ed542fdaa4598671e26aca3e160afed7" tvg-drmkey="cdb880c60523b9ebc61b9003c41f8048" group-title="PROVINCIALES",AmÃ©rica TucumÃ¡n
+# flow://QW1lcmljYV9UdWN1bWFu
+# #EXTINF:-1 tvg-id="159" tvg-logo="https://i.postimg.cc/htVqpSrp/Arirang.png" tvg-code="QXJpcmFuZw==" tvg-keyid="436d78a75fad9bdcc6d409640c116a62" tvg-drmkey="c77471ac3b694513a9c5ff68b8d4fac5" group-title="INTERNACIONAL",Arirang
+# flow://QXJpcmFuZw==
 #EXTINF:-1 tvg-id="160" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/800/542/0/0/2335855007695.png" tvg-code="QmFieVRW" tvg-keyid="9e09f0a3ecb932582e0f3bc6a6194c8d" tvg-drmkey="6d2363b7ba7680ea3bf6dcbad1efa5bf" group-title="INFANTILES",Baby TV
 flow://QmFieVRW
 #EXTINF:-1 tvg-id="161" tvg-logo="https://i.postimg.cc/1RNPfcqM/Bloomberg.png" tvg-code="Qmxvb21iZXJn" tvg-keyid="1e50891cdc64452aae20d049727f2f3f" tvg-drmkey="551871ba1dc6a95597ec0cb82eb3b2a4" group-title="OTROS",Bloomberg
 flow://Qmxvb21iZXJn
 #EXTINF:-1 tvg-id="162" tvg-logo="https://i.postimg.cc/9MYdpqR9/CNN_International.png" tvg-code="Q05OX0ludGVybmFjaW9uYWw=" tvg-keyid="9f24708ad1184ee3a04b650941f9894b" tvg-drmkey="e5bc7c5ff392119423dbf1c023a7b21c" group-title="OTROS",CNN International
 flow://Q05OX0ludGVybmFjaW9uYWw=
-#EXTINF:-1 tvg-id="163" tvg-logo="https://i.postimg.cc/J0CFyJwB/CNN_en_EspaÃ±ol.png" tvg-code="Q05OX2VuX0VzcGFub2w=" tvg-keyid="0b20ed9da0e5457c9dfd3ae0b6092491" tvg-drmkey="98997a7020c18cb28174a2490147830a" group-title="OTROS",CNN en EspaÃ±ol
+#EXTINF:-1 tvg-id="163" tvg-logo="https://i.postimg.cc/J0CFyJwB/CNN_en_Español.png" tvg-code="Q05OX2VuX0VzcGFub2w=" tvg-keyid="0b20ed9da0e5457c9dfd3ae0b6092491" tvg-drmkey="98997a7020c18cb28174a2490147830a" group-title="OTROS",CNN en Español
 flow://Q05OX2VuX0VzcGFub2w=
-#EXTINF:-1 tvg-id="164" tvg-logo="https://i.postimg.cc/KzqYtc9G/Logo-2.png" tvg-code="Q2FibGVfWV9EaWFyaW8=" tvg-keyid="6df95979c5b379c56f6e87a19e37be00" tvg-drmkey="034564e9816644d6618644246347bc64" group-title="PROVINCIALES",Cable & Diario (Santa Fe)
-flow://Q2FibGVfWV9EaWFyaW8=
-#EXTINF:-1 tvg-id="165" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/846786600758.png" tvg-code="Q2FuYWxfYQ==" tvg-keyid="324ec73787744554ae1aef231a4f8f97" tvg-drmkey="677a040674d1d0eccef327269b222bae" group-title="OTROS",Canal (Ã¡)
+# #EXTINF:-1 tvg-id="164" tvg-logo="https://i.postimg.cc/KzqYtc9G/Logo-2.png" tvg-code="Q2FibGVfWV9EaWFyaW8=" tvg-keyid="6df95979c5b379c56f6e87a19e37be00" tvg-drmkey="034564e9816644d6618644246347bc64" group-title="PROVINCIALES",Cable & Diario (Santa Fe)
+# flow://Q2FibGVfWV9EaWFyaW8=
+#EXTINF:-1 tvg-id="165" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/846786600758.png" tvg-code="Q2FuYWxfYQ==" tvg-keyid="324ec73787744554ae1aef231a4f8f97" tvg-drmkey="677a040674d1d0eccef327269b222bae" group-title="OTROS",Canal (Á)
 flow://Q2FuYWxfYQ==
-#EXTINF:-1 tvg-id="166" tvg-logo="https://i.postimg.cc/d01Cq2c4/canal-10-cordoba.png" tvg-code="Q2FuYWwxMF9DQkFfSEQ=" tvg-keyid="6d85fcc70989d0dbe8d70dd70a4629c0" tvg-drmkey="a953290192fd5db5bf7936a88ecc6877" group-title="PROVINCIALES",Canal 10 CÃ³rdoba
-flow://Q2FuYWwxMF9DQkFfSEQ=
-#EXTINF:-1 tvg-id="167" tvg-logo="https://i.postimg.cc/vm82w3Qw/10-Junin.png" tvg-code="Q2FuYWxfMTBfSnVuaW4=" tvg-keyid="2002528cbe8ebac766a4b87b2c931cb7" tvg-drmkey="e545efab88c32190b395fe2fa96cf0ce" group-title="PROVINCIALES",Canal 10 JunÃ­n
-flow://Q2FuYWxfMTBfSnVuaW4=
-#EXTINF:-1 tvg-id="168" tvg-logo="https://i.postimg.cc/QM7Fq0Jv/Logo-1.png" tvg-code="Q2FuYWxfMTBfTURR" tvg-keyid="5f353c7f02f643da9049646fb835abcf" tvg-drmkey="ae8630fc13b9e4554c56bd0be31be74f" group-title="PROVINCIALES",Canal 10 MDQ
-flow://Q2FuYWxfMTBfTURR
-#EXTINF:-1 tvg-id="169" tvg-logo="https://i.postimg.cc/LXBtv40N/Logo-3.png" tvg-code="Q2FuYWwxMF9SaW9fTmVncm8=" tvg-keyid="491adb9269c5c8ab41f83936d0b4a68f" tvg-drmkey="7ab85b000d8b5a06f542aff956bcb007" group-title="PROVINCIALES",Canal 10 RÃ­o Negro
-flow://Q2FuYWwxMF9SaW9fTmVncm8=
-#EXTINF:-1 tvg-id="170" tvg-logo="https://i.postimg.cc/T1LspDPj/Logo-1.png" tvg-code="Q2gxMF9UdWN1bWFu" tvg-keyid="7a53740aa52d8b50ccb218aab5e9d50e" tvg-drmkey="e772fa4a4997b50a0ff04e2ef286a864" group-title="PROVINCIALES",Canal 10 TucumÃ¡n
-flow://Q2gxMF9UdWN1bWFu
-#EXTINF:-1 tvg-id="171" tvg-logo="https://i.postimg.cc/50nnYB7s/Canal_13_RC_e_Imperio_TV_LEP.png" tvg-code="Q2FuYWxfMTNfUmlvXzR0bw==" tvg-keyid="6f4439b8c624ac6a8abba87c3621d580" tvg-drmkey="c8798da6ee3e0934089ab2ab9fe5d5b7" group-title="PROVINCIALES",Canal 13 RÃ­o Cuarto
-flow://Q2FuYWxfMTNfUmlvXzR0bw==
-#EXTINF:-1 tvg-id="172" tvg-logo="https://i.postimg.cc/W1VTgL7f/Logo.png" tvg-code="Q2FuYWxfMl9NRFFfTEND" tvg-keyid="30691d3980864458cc24a230708cf003" tvg-drmkey="9f11ac9715b016312f6a222d0886c2af" group-title="PROVINCIALES",Canal 2 (Mar del Plata)
-flow://Q2FuYWxfMl9NRFFfTEND
-#EXTINF:-1 tvg-id="173" tvg-logo="https://i.postimg.cc/ZY2QkJGv/Canal_3_Formosa.png" tvg-code="Q2FuYWxfM19Gb3Jtb3Nh" tvg-keyid="fad37e328e1d36e0a5423a1a72d4085b" tvg-drmkey="93fb085bbb8d6583d159c766fca1cfff" group-title="PROVINCIALES",Canal 3 Formosa
-flow://Q2FuYWxfM19Gb3Jtb3Nh
-#EXTINF:-1 tvg-id="174" tvg-logo="https://i.postimg.cc/pdvXJCmG/Fondo_Oscuro.png" tvg-code="Q2FuYWw3X1NERQ==" tvg-keyid="eec52ca8f4d229ae6aae86b6835256ed" tvg-drmkey="506afbd8be37e388f5d3ceb7992069d4" group-title="PROVINCIALES",Canal 7 SDE
-flow://Q2FuYWw3X1NERQ==
-#EXTINF:-1 tvg-id="175" tvg-logo="https://i.postimg.cc/Pxttkbh4/Logo.png" tvg-code="Q2FuYWxfNzlfTURR" tvg-keyid="32b5308f8e6d411eab8a8f1576f95e27" tvg-drmkey="0afb56f72dbf8a5555e30a6f086049ac" group-title="PROVINCIALES",Canal 79 MDQ
-flow://Q2FuYWxfNzlfTURR
-#EXTINF:-1 tvg-id="176" tvg-logo="https://i.postimg.cc/P53snskB/CANAL-8-MDQ.png" tvg-code="VGVsZWZlX01EUV9IRA==" tvg-keyid="cd82180cb606cee7547f58298c4f8fcb" tvg-drmkey="844489c5f007fbe4afa36c8d64528d73" group-title="PROVINCIALES",Canal 8 MDQ
-flow://VGVsZWZlX01EUV9IRA==
-#EXTINF:-1 tvg-id="177" tvg-logo="https://i.postimg.cc/t4sW-hd7W/Canal-9-Litoral.png" tvg-code="Q2FuYWxfOV9QYXJhbmE=" tvg-keyid="dd573858f3414066b9292ef6397a5c3c" tvg-drmkey="593eb5f7facce4240ff7a5f26afd47e0" group-title="PROVINCIALES",Canal 9 Litoral
-flow://Q2FuYWxfOV9QYXJhbmE=
+# #EXTINF:-1 tvg-id="166" tvg-logo="https://i.postimg.cc/d01Cq2c4/canal-10-cordoba.png" tvg-code="Q2FuYWwxMF9DQkFfSEQ=" tvg-keyid="6d85fcc70989d0dbe8d70dd70a4629c0" tvg-drmkey="a953290192fd5db5bf7936a88ecc6877" group-title="PROVINCIALES",Canal 10 CÃ³rdoba
+# flow://Q2FuYWwxMF9DQkFfSEQ=
+# #EXTINF:-1 tvg-id="167" tvg-logo="https://i.postimg.cc/vm82w3Qw/10-Junin.png" tvg-code="Q2FuYWxfMTBfSnVuaW4=" tvg-keyid="2002528cbe8ebac766a4b87b2c931cb7" tvg-drmkey="e545efab88c32190b395fe2fa96cf0ce" group-title="PROVINCIALES",Canal 10 JunÃ­n
+# flow://Q2FuYWxfMTBfSnVuaW4=
+# #EXTINF:-1 tvg-id="168" tvg-logo="https://i.postimg.cc/QM7Fq0Jv/Logo-1.png" tvg-code="Q2FuYWxfMTBfTURR" tvg-keyid="5f353c7f02f643da9049646fb835abcf" tvg-drmkey="ae8630fc13b9e4554c56bd0be31be74f" group-title="PROVINCIALES",Canal 10 MDQ
+# flow://Q2FuYWxfMTBfTURR
+# #EXTINF:-1 tvg-id="169" tvg-logo="https://i.postimg.cc/LXBtv40N/Logo-3.png" tvg-code="Q2FuYWwxMF9SaW9fTmVncm8=" tvg-keyid="491adb9269c5c8ab41f83936d0b4a68f" tvg-drmkey="7ab85b000d8b5a06f542aff956bcb007" group-title="PROVINCIALES",Canal 10 RÃ­o Negro
+# flow://Q2FuYWwxMF9SaW9fTmVncm8=
+# #EXTINF:-1 tvg-id="170" tvg-logo="https://i.postimg.cc/T1LspDPj/Logo-1.png" tvg-code="Q2gxMF9UdWN1bWFu" tvg-keyid="7a53740aa52d8b50ccb218aab5e9d50e" tvg-drmkey="e772fa4a4997b50a0ff04e2ef286a864" group-title="PROVINCIALES",Canal 10 TucumÃ¡n
+# flow://Q2gxMF9UdWN1bWFu
+# #EXTINF:-1 tvg-id="171" tvg-logo="https://i.postimg.cc/50nnYB7s/Canal_13_RC_e_Imperio_TV_LEP.png" tvg-code="Q2FuYWxfMTNfUmlvXzR0bw==" tvg-keyid="6f4439b8c624ac6a8abba87c3621d580" tvg-drmkey="c8798da6ee3e0934089ab2ab9fe5d5b7" group-title="PROVINCIALES",Canal 13 RÃ­o Cuarto
+# flow://Q2FuYWxfMTNfUmlvXzR0bw==
+# #EXTINF:-1 tvg-id="172" tvg-logo="https://i.postimg.cc/W1VTgL7f/Logo.png" tvg-code="Q2FuYWxfMl9NRFFfTEND" tvg-keyid="30691d3980864458cc24a230708cf003" tvg-drmkey="9f11ac9715b016312f6a222d0886c2af" group-title="PROVINCIALES",Canal 2 (Mar del Plata)
+# flow://Q2FuYWxfMl9NRFFfTEND
+# #EXTINF:-1 tvg-id="173" tvg-logo="https://i.postimg.cc/ZY2QkJGv/Canal_3_Formosa.png" tvg-code="Q2FuYWxfM19Gb3Jtb3Nh" tvg-keyid="fad37e328e1d36e0a5423a1a72d4085b" tvg-drmkey="93fb085bbb8d6583d159c766fca1cfff" group-title="PROVINCIALES",Canal 3 Formosa
+# flow://Q2FuYWxfM19Gb3Jtb3Nh
+# #EXTINF:-1 tvg-id="174" tvg-logo="https://i.postimg.cc/pdvXJCmG/Fondo_Oscuro.png" tvg-code="Q2FuYWw3X1NERQ==" tvg-keyid="eec52ca8f4d229ae6aae86b6835256ed" tvg-drmkey="506afbd8be37e388f5d3ceb7992069d4" group-title="PROVINCIALES",Canal 7 SDE
+# flow://Q2FuYWw3X1NERQ==
+# #EXTINF:-1 tvg-id="175" tvg-logo="https://i.postimg.cc/Pxttkbh4/Logo.png" tvg-code="Q2FuYWxfNzlfTURR" tvg-keyid="32b5308f8e6d411eab8a8f1576f95e27" tvg-drmkey="0afb56f72dbf8a5555e30a6f086049ac" group-title="PROVINCIALES",Canal 79 MDQ
+# flow://Q2FuYWxfNzlfTURR
+# #EXTINF:-1 tvg-id="176" tvg-logo="https://i.postimg.cc/P53snskB/CANAL-8-MDQ.png" tvg-code="VGVsZWZlX01EUV9IRA==" tvg-keyid="cd82180cb606cee7547f58298c4f8fcb" tvg-drmkey="844489c5f007fbe4afa36c8d64528d73" group-title="PROVINCIALES",Canal 8 MDQ
+# flow://VGVsZWZlX01EUV9IRA==
+# #EXTINF:-1 tvg-id="177" tvg-logo="https://i.postimg.cc/t4sW-hd7W/Canal-9-Litoral.png" tvg-code="Q2FuYWxfOV9QYXJhbmE=" tvg-keyid="dd573858f3414066b9292ef6397a5c3c" tvg-drmkey="593eb5f7facce4240ff7a5f26afd47e0" group-title="PROVINCIALES",Canal 9 Litoral
+# flow://Q2FuYWxfOV9QYXJhbmE=
 #EXTINF:-1 tvg-id="178" tvg-logo="https://i.postimg.cc/K8HLKxkr/Canal-90-Digital.png" tvg-code="Q2FuYWxfOTA=" tvg-keyid="ca50103f3285421e8be7da8c0c0e7a54" tvg-drmkey="3608e92a6feddf228c1f035ebb764426" group-title="PROVINCIALES",Canal 90 Digital
 flow://Q2FuYWxfOTA=
-#EXTINF:-1 tvg-id="179" tvg-logo="https://i.postimg.cc/x11R476c/Canal-C-CBA.png" tvg-code="Q2FuYWxfQw==" tvg-keyid="9a866ca98bef2351a68e4843139f8073" tvg-drmkey="b0893077653d1ef842a1b65d8b34455a" group-title="PROVINCIALES",Canal C CÃ³rdoba
-flow://Q2FuYWxfQw==
-#EXTINF:-1 tvg-id="180" tvg-logo="https://i.postimg.cc/9M5RsF5Q/Canal-Luz.png" tvg-code="Q0FOQUxfTFVa" tvg-keyid="f7523ea5a2da78c465d928be1d81e2a5" tvg-drmkey="870ad69e98abd52b443bd8f0204b3bc4" group-title="PROVINCIALES",Canal Luz
-flow://Q0FOQUxfTFVa
-#EXTINF:-1 tvg-id="181" tvg-logo="https://i.postimg.cc/9FQ2PBGZ/Logo_1.png" tvg-code="Q2FuYWxfMjE=" tvg-keyid="29ccae9b98d74e76b35ac4e9a7fd1af1" tvg-drmkey="cd6f0d4dca0fc30533e845fc8ea6a945" group-title="PROVINCIALES",Canal Orbe 21
-flow://Q2FuYWxfMjE=
-#EXTINF:-1 tvg-id="182" tvg-logo="https://i.postimg.cc/d0W4R9zv/Fondo_Oscuro.png" tvg-code="Q2FuYWw3X0JhaGlhX0JsYW5jYQ==" tvg-keyid="a15243320c0a79defa8814252e3e8c07" tvg-drmkey="0659db05632c0061c126db7a12582499" group-title="PROVINCIALES",Canal Siete BahÃ­a Blanca
-flow://Q2FuYWw3X0JhaGlhX0JsYW5jYQ==
-#EXTINF:-1 tvg-id="183" tvg-logo="https://i.postimg.cc/Xq73mwp8/Logo_1.png" tvg-code="Q0JBMjQ=" tvg-keyid="b93e6ce6b4fb51b890ac57d8c0b6a402" tvg-drmkey="53eb2499d8c57cf6f9ea887c8683c591" group-title="PROVINCIALES",Canal U (CÃ³rdoba)
-flow://Q0JBMjQ=
-#EXTINF:-1 tvg-id="184" tvg-logo="https://i.postimg.cc/Jzpvn9Ym/Canal-Universitario-UNMDP.png" tvg-code="VW5pdmVyc2lkYWRfTURR" tvg-keyid="4f6ab7206de81b4f19edcbc735a7f4ca" tvg-drmkey="5d05b9738b9a999a4b7c5b495866c21c" group-title="PROVINCIALES",Canal Universidad UNMDP (Mar del Plata)
-flow://VW5pdmVyc2lkYWRfTURR
+# #EXTINF:-1 tvg-id="179" tvg-logo="https://i.postimg.cc/x11R476c/Canal-C-CBA.png" tvg-code="Q2FuYWxfQw==" tvg-keyid="9a866ca98bef2351a68e4843139f8073" tvg-drmkey="b0893077653d1ef842a1b65d8b34455a" group-title="PROVINCIALES",Canal C CÃ³rdoba
+# flow://Q2FuYWxfQw==
+# #EXTINF:-1 tvg-id="180" tvg-logo="https://i.postimg.cc/9M5RsF5Q/Canal-Luz.png" tvg-code="Q0FOQUxfTFVa" tvg-keyid="f7523ea5a2da78c465d928be1d81e2a5" tvg-drmkey="870ad69e98abd52b443bd8f0204b3bc4" group-title="PROVINCIALES",Canal Luz
+# flow://Q0FOQUxfTFVa
+# #EXTINF:-1 tvg-id="181" tvg-logo="https://i.postimg.cc/9FQ2PBGZ/Logo_1.png" tvg-code="Q2FuYWxfMjE=" tvg-keyid="29ccae9b98d74e76b35ac4e9a7fd1af1" tvg-drmkey="cd6f0d4dca0fc30533e845fc8ea6a945" group-title="PROVINCIALES",Canal Orbe 21
+# flow://Q2FuYWxfMjE=
+# #EXTINF:-1 tvg-id="182" tvg-logo="https://i.postimg.cc/d0W4R9zv/Fondo_Oscuro.png" tvg-code="Q2FuYWw3X0JhaGlhX0JsYW5jYQ==" tvg-keyid="a15243320c0a79defa8814252e3e8c07" tvg-drmkey="0659db05632c0061c126db7a12582499" group-title="PROVINCIALES",Canal Siete BahÃ­a Blanca
+# flow://Q2FuYWw3X0JhaGlhX0JsYW5jYQ==
+# #EXTINF:-1 tvg-id="183" tvg-logo="https://i.postimg.cc/Xq73mwp8/Logo_1.png" tvg-code="Q0JBMjQ=" tvg-keyid="b93e6ce6b4fb51b890ac57d8c0b6a402" tvg-drmkey="53eb2499d8c57cf6f9ea887c8683c591" group-title="PROVINCIALES",Canal U (CÃ³rdoba)
+# flow://Q0JBMjQ=
+# #EXTINF:-1 tvg-id="184" tvg-logo="https://i.postimg.cc/Jzpvn9Ym/Canal-Universitario-UNMDP.png" tvg-code="VW5pdmVyc2lkYWRfTURR" tvg-keyid="4f6ab7206de81b4f19edcbc735a7f4ca" tvg-drmkey="5d05b9738b9a999a4b7c5b495866c21c" group-title="PROVINCIALES",Canal Universidad UNMDP (Mar del Plata)
+# flow://VW5pdmVyc2lkYWRfTURR
 #EXTINF:-1 tvg-id="185" tvg-logo="https://i.postimg.cc/SKQ1bDyx/Verte-Olavarria.png" tvg-code="U29tb3NfQXp1bA==" tvg-keyid="4343f3f5f5b4d3dffa9584d20d912ac6" tvg-drmkey="9f0c94b68cf89c38d30dd56a2fbecd48" group-title="PROVINCIALES",Canal Verte+
 flow://U29tb3NfQXp1bA==
-#EXTINF:-1 tvg-id="186" tvg-logo="https://i.postimg.cc/dV884W0D/Logo-2.png" tvg-code="VGVsZW1lZGlh" tvg-keyid="294b92debd46867562934091f551e6e5" tvg-drmkey="79ec0fe4b5fa6c66a29c93542a070f19" group-title="PROVINCIALES",Corrientes TV
-flow://VGVsZW1lZGlh
+# #EXTINF:-1 tvg-id="186" tvg-logo="https://i.postimg.cc/dV884W0D/Logo-2.png" tvg-code="VGVsZW1lZGlh" tvg-keyid="294b92debd46867562934091f551e6e5" tvg-drmkey="79ec0fe4b5fa6c66a29c93542a070f19" group-title="PROVINCIALES",Corrientes TV
+# flow://VGVsZW1lZGlh
 #EXTINF:-1 tvg-id="188" tvg-logo="https://i.postimg.cc/FKVR7bkD/DNews.png" tvg-code="RE5ld3M=" tvg-keyid="21563d82cfb7fdd18b213f0bd92a274f" tvg-drmkey="5940d8d0b57b9e6533e99cc0e7bf2f8e" group-title="OTROS",DNews
 flow://RE5ld3M=
-#EXTINF:-1 tvg-id="189" tvg-logo="https://i.postimg.cc/28pvgGY2/DW_EspaÃ±ol.png" tvg-code="RFc=" tvg-keyid="e21fc12c6ee185fbc90a052b05026be9" tvg-drmkey="0f96fd52903707aac0b42853a043ffd0" group-title="OTROS",DW EspaÃ±ol
+#EXTINF:-1 tvg-id="189" tvg-logo="https://i.postimg.cc/28pvgGY2/DW_EspaÃ±ol.png" tvg-code="RFc=" tvg-keyid="e21fc12c6ee185fbc90a052b05026be9" tvg-drmkey="0f96fd52903707aac0b42853a043ffd0" group-title="OTROS",DW Español
 flow://RFc=
-#EXTINF:-1 tvg-id="190" tvg-logo="https://i.postimg.cc/mktpPwkH/Logo_2.png" tvg-code="Q0hfMTJfUG9zYWRhcw==" tvg-keyid="9c996a1465acddc9c3f7a2dd9b86aa88" tvg-drmkey="a2b63e48c99bebb52bfcdb1830efdd3e" group-title="PROVINCIALES",DoceTV Misiones
-flow://Q0hfMTJfUG9zYWRhcw==
-#EXTINF:-1 tvg-id="191" tvg-logo="https://i.postimg.cc/yNKtJN8x/ELONCE.png" tvg-code="Q2FuYWxfMTFfUGFyYW5h" tvg-keyid="82d766840c7ea82b4f309ae1d4f9c0d7" tvg-drmkey="41071d71fc94b54c87e6140d7b2e9226" group-title="PROVINCIALES",ELONCE (ParanÃ¡)
-flow://Q2FuYWxfMTFfUGFyYW5h
+# #EXTINF:-1 tvg-id="190" tvg-logo="https://i.postimg.cc/mktpPwkH/Logo_2.png" tvg-code="Q0hfMTJfUG9zYWRhcw==" tvg-keyid="9c996a1465acddc9c3f7a2dd9b86aa88" tvg-drmkey="a2b63e48c99bebb52bfcdb1830efdd3e" group-title="PROVINCIALES",DoceTV Misiones
+# flow://Q0hfMTJfUG9zYWRhcw==
+# #EXTINF:-1 tvg-id="191" tvg-logo="https://i.postimg.cc/yNKtJN8x/ELONCE.png" tvg-code="Q2FuYWxfMTFfUGFyYW5h" tvg-keyid="82d766840c7ea82b4f309ae1d4f9c0d7" tvg-drmkey="41071d71fc94b54c87e6140d7b2e9226" group-title="PROVINCIALES",ELONCE (ParanÃ¡)
+# flow://Q2FuYWxfMTFfUGFyYW5h
 # #EXTINF:-1 tvg-id="192" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" tvg-code="RVNQTjJIRA==" tvg-keyid="e884b711ab111beb8a7ba1e7bcbdc9bf" tvg-drmkey="cb89ee3961599e3e648a5aad60895f34" group-title="OTROS",ESPN
 # flow://RVNQTjJIRA==
-#EXTINF:-1 tvg-id="193" tvg-logo="https://i.postimg.cc/fLnt1Tnb/EWTN.png" tvg-code="RVdUTg==" tvg-keyid="07df3c48652a431ab779d133f085b799" tvg-drmkey="ee2fbeec1ecdffa5617383f684dfda0e" group-title="OTROS",EWTN
-flow://RVdUTg==
-#EXTINF:-1 tvg-id="194" tvg-logo="https://i.postimg.cc/jjzxBqd1/Eco-TV.png" tvg-code="RWNvVHZfVGFuZGls" tvg-keyid="2bcb0593847aa273102a0546f8d51ce4" tvg-drmkey="f04591c07966e6678462dd94f99da66a" group-title="PROVINCIALES",Eco TV Tandil
-flow://RWNvVHZfVGFuZGls
-#EXTINF:-1 tvg-id="196" tvg-logo="https://i.postimg.cc/4m5NVvh1/FR24-ES.png" tvg-code="RnJhbmNlMjRfRmxvdw==" tvg-keyid="c8a3d29db38c4a9fa9a838c3d4d681db" tvg-drmkey="d3aa374c4c0de33f463b4387a18297a6" group-title="INTERNACIONAL",France 24 EspaÃ±ol
+# #EXTINF:-1 tvg-id="193" tvg-logo="https://i.postimg.cc/fLnt1Tnb/EWTN.png" tvg-code="RVdUTg==" tvg-keyid="07df3c48652a431ab779d133f085b799" tvg-drmkey="ee2fbeec1ecdffa5617383f684dfda0e" group-title="OTROS",EWTN
+# flow://RVdUTg==
+# #EXTINF:-1 tvg-id="194" tvg-logo="https://i.postimg.cc/jjzxBqd1/Eco-TV.png" tvg-code="RWNvVHZfVGFuZGls" tvg-keyid="2bcb0593847aa273102a0546f8d51ce4" tvg-drmkey="f04591c07966e6678462dd94f99da66a" group-title="PROVINCIALES",Eco TV Tandil
+# flow://RWNvVHZfVGFuZGls
+#EXTINF:-1 tvg-id="196" tvg-logo="https://i.postimg.cc/4m5NVvh1/FR24-ES.png" tvg-code="RnJhbmNlMjRfRmxvdw==" tvg-keyid="c8a3d29db38c4a9fa9a838c3d4d681db" tvg-drmkey="d3aa374c4c0de33f463b4387a18297a6" group-title="INTERNACIONAL",France 24 Español
 flow://RnJhbmNlMjRfRmxvdw==
-#EXTINF:-1 tvg-id="197" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/60095595073431.png" tvg-code="RnJhbmNlXzI0" tvg-keyid="72187f2651724db18505cdcad435841d" tvg-drmkey="6f41e05476e34edf7bb9dc51f08f95df" group-title="INTERNACIONAL",France 24 FrancÃ©s
+#EXTINF:-1 tvg-id="197" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/60095595073431.png" tvg-code="RnJhbmNlXzI0" tvg-keyid="72187f2651724db18505cdcad435841d" tvg-drmkey="6f41e05476e34edf7bb9dc51f08f95df" group-title="INTERNACIONAL",France 24 Francés
 flow://RnJhbmNlXzI0
-#EXTINF:-1 tvg-id="198" tvg-logo="https://i.postimg.cc/xTrHB5Q3/Golf_Channel_Latin_America.png" tvg-code="R29sZl9DaGFubmVs" tvg-keyid="38d6226b7cd2cfa86b4b9cdaa455e7d7" tvg-drmkey="24f0ef2bf787647cc02df870417eed2b" group-title="OTROS",Golf Channel
-flow://R29sZl9DaGFubmVs
+# #EXTINF:-1 tvg-id="198" tvg-logo="https://i.postimg.cc/xTrHB5Q3/Golf_Channel_Latin_America.png" tvg-code="R29sZl9DaGFubmVs" tvg-keyid="38d6226b7cd2cfa86b4b9cdaa455e7d7" tvg-drmkey="24f0ef2bf787647cc02df870417eed2b" group-title="OTROS",Golf Channel
+# flow://R29sZl9DaGFubmVs
 #EXTINF:-1 tvg-id="199" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/800/542/0/0/28796844071531.png" tvg-code="SG9tZV9hbmRfR2FyZGVu" tvg-keyid="43bc6a87ee4f21aa320ba00b980a6fd8" tvg-drmkey="bd55130539a30faa1d90b3142eebe0b2" group-title="OTROS",HGTV
 flow://SG9tZV9hbmRfR2FyZGVu
 # #EXTINF:-1 tvg-id="201" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/59186910073646.png" tvg-code="SW5mb19GbG93" group-title="OTROS",Info Flow
@@ -408,66 +416,66 @@ flow://S1pP
 flow://S2lkb28=
 #EXTINF:-1 tvg-id="205" tvg-logo="https://i.postimg.cc/L5rVsDRX/Logo.png" tvg-code="TWl4VFY=" tvg-keyid="0e1327b5b1f4dfe767aec622c9ef64ce" tvg-drmkey="60c64a922af0121bf73261c825e33f18" group-title="PROVINCIALES",Mix TV
 flow://TWl4VFY=
-#EXTINF:-1 tvg-id="206" tvg-logo="https://i.postimg.cc/g0HJnyL4/New_Brasil.png" tvg-code="QmFuZGVpcmFudGVz" tvg-keyid="0b4f56d5c19b45fb3e75a73b6ec06e6c" tvg-drmkey="c464e2b6ded2b52e1e7753b3a859abce" group-title="INTERNACIONAL",New Brasil
-flow://QmFuZGVpcmFudGVz
+# #EXTINF:-1 tvg-id="206" tvg-logo="https://i.postimg.cc/g0HJnyL4/New_Brasil.png" tvg-code="QmFuZGVpcmFudGVz" tvg-keyid="0b4f56d5c19b45fb3e75a73b6ec06e6c" tvg-drmkey="c464e2b6ded2b52e1e7753b3a859abce" group-title="INTERNACIONAL",New Brasil
+# flow://QmFuZGVpcmFudGVz
 #EXTINF:-1 tvg-id="207" tvg-logo="https://i.postimg.cc/L5JRmjMP/Logo.png" tvg-code="UFhfU3BvcnRz" tvg-keyid="9393321daef1463fc7e2e060298db852" tvg-drmkey="be6bc91e17816f67e62596bed463c5ad" group-title="DEPORTES",PX Sports
 flow://UFhfU3BvcnRz
 #EXTINF:-1 tvg-id="208" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/93318670071976.png" tvg-code="UGFzaW9uZXM=" tvg-keyid="d41cf825e878f0d8e276218af7f5b7e1" tvg-drmkey="13d1b73ab578ab8623be9347bcf8972a" group-title="NOVELAS",Pasiones
 flow://UGFzaW9uZXM=
 #EXTINF:-1 tvg-id="210" tvg-logo="https://i.postimg.cc/sf96fdZR/Logo.png" tvg-code="UGxpbV9QbGlt" tvg-keyid="8e88e1572dcd2b31a10026668d628d61" tvg-drmkey="ab95bdc2655aff4f4a8e512fb68c80df" group-title="INFANTILES",Plim Plim TV
 flow://UGxpbV9QbGlt
-#EXTINF:-1 tvg-id="211" tvg-logo="https://i.postimg.cc/cLThkb3L/RTS.png" tvg-code="NVJUVg==" tvg-keyid="7caca846fda0ac308553f7eb7284a596" tvg-drmkey="256934a336abbc242378af4a2dfcac4e" group-title="PROVINCIALES",RTS TelevisiÃ³n Santafesina
-flow://NVJUVg==
-#EXTINF:-1 tvg-id="212" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/73302220072031.png" tvg-code="U29tb3NfUmFmYWVsYQ==" tvg-keyid="7071b5b3283cebd376d1ba9c6e53ba6e" tvg-drmkey="87a6c4c8baaefb073270e92f092b4c25" group-title="PROVINCIALES",Rafaela Noticias
-flow://U29tb3NfUmFmYWVsYQ==
-#EXTINF:-1 tvg-id="213" tvg-logo="https://i.postimg.cc/44zJdx6s/Santa-Maria.png" tvg-code="U2VuYWxfTWFyaWE=" tvg-keyid="d456fba3fccb4c06a0f4776fe412400b" tvg-drmkey="ca5530ffe42a38759d3887c82d6a909a" group-title="OTROS",Santa MarÃ­a
-flow://U2VuYWxfTWFyaWE=
-#EXTINF:-1 tvg-id="215" tvg-logo="https://i.postimg.cc/Cx34701w/Logo.png" tvg-code="U2hvd19TcG9ydHM=" tvg-keyid="df3ed6245bb9af1a0346379e8e475dff" tvg-drmkey="f86f8457438d4e449d53b956cc1be664" group-title="PROVINCIALES",Showsport (CÃ³rdoba)
-flow://U2hvd19TcG9ydHM=
-#EXTINF:-1 tvg-id="216" tvg-logo="https://i.postimg.cc/6qp5L4FT/Somos.png" tvg-code="U29tb3NfTm9ydGU=" tvg-keyid="ee8a6cc35fdb4ab7adeed9d16593459f" tvg-drmkey="5ca774838d5c887f7a8d7dee64b9a6b0" group-title="PROVINCIALES",Somos
-flow://U29tb3NfTm9ydGU=
-#EXTINF:-1 tvg-id="217" tvg-logo="https://i.postimg.cc/Mp2Wz5mp/Somos_BahÃ­a_Blanca.png" tvg-code="U29tb3NfQmFoaWFfQmxhbmNh" tvg-keyid="64c7e9ed4e3930b54d020c08a6792f10" tvg-drmkey="737b6374d4492e8c233ca2c2ebac9b85" group-title="PROVINCIALES",Somos BahÃ­a Blanca
-flow://U29tb3NfQmFoaWFfQmxhbmNh
+# #EXTINF:-1 tvg-id="211" tvg-logo="https://i.postimg.cc/cLThkb3L/RTS.png" tvg-code="NVJUVg==" tvg-keyid="7caca846fda0ac308553f7eb7284a596" tvg-drmkey="256934a336abbc242378af4a2dfcac4e" group-title="PROVINCIALES",RTS TelevisiÃ³n Santafesina
+# flow://NVJUVg==
+# #EXTINF:-1 tvg-id="212" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/73302220072031.png" tvg-code="U29tb3NfUmFmYWVsYQ==" tvg-keyid="7071b5b3283cebd376d1ba9c6e53ba6e" tvg-drmkey="87a6c4c8baaefb073270e92f092b4c25" group-title="PROVINCIALES",Rafaela Noticias
+# flow://U29tb3NfUmFmYWVsYQ==
+# #EXTINF:-1 tvg-id="213" tvg-logo="https://i.postimg.cc/44zJdx6s/Santa-Maria.png" tvg-code="U2VuYWxfTWFyaWE=" tvg-keyid="d456fba3fccb4c06a0f4776fe412400b" tvg-drmkey="ca5530ffe42a38759d3887c82d6a909a" group-title="OTROS",Santa Marí­a
+# flow://U2VuYWxfTWFyaWE=
+# #EXTINF:-1 tvg-id="215" tvg-logo="https://i.postimg.cc/Cx34701w/Logo.png" tvg-code="U2hvd19TcG9ydHM=" tvg-keyid="df3ed6245bb9af1a0346379e8e475dff" tvg-drmkey="f86f8457438d4e449d53b956cc1be664" group-title="PROVINCIALES",Showsport (CÃ³rdoba)
+# flow://U2hvd19TcG9ydHM=
+# #EXTINF:-1 tvg-id="216" tvg-logo="https://i.postimg.cc/6qp5L4FT/Somos.png" tvg-code="U29tb3NfTm9ydGU=" tvg-keyid="ee8a6cc35fdb4ab7adeed9d16593459f" tvg-drmkey="5ca774838d5c887f7a8d7dee64b9a6b0" group-title="PROVINCIALES",Somos
+# flow://U29tb3NfTm9ydGU=
+# #EXTINF:-1 tvg-id="217" tvg-logo="https://i.postimg.cc/Mp2Wz5mp/Somos_BahÃ­a_Blanca.png" tvg-code="U29tb3NfQmFoaWFfQmxhbmNh" tvg-keyid="64c7e9ed4e3930b54d020c08a6792f10" tvg-drmkey="737b6374d4492e8c233ca2c2ebac9b85" group-title="PROVINCIALES",Somos BahÃ­a Blanca
+# flow://U29tb3NfQmFoaWFfQmxhbmNh
 #EXTINF:-1 tvg-id="218" tvg-logo="https://i.postimg.cc/dVPqJ6j1/Somos_El_Valle.png" tvg-code="U29tb3NfRWxfVmFsbGU=" tvg-keyid="513f2056bf40d9123918fd7939fbf065" tvg-drmkey="075ee6dd9b67d88be5642eaa510e91cb" group-title="PROVINCIALES",Somos El Valle
 flow://U29tb3NfRWxfVmFsbGU=
-#EXTINF:-1 tvg-id="219" tvg-logo="https://i.postimg.cc/jS3gsDHx/Somos_Formosa.png" tvg-code="U29tb3NfRm9ybW9zYQ==" tvg-keyid="ceeb1cfa7ecbc8b22ff9f186287aa4a1" tvg-drmkey="8367cc3655b9fb82d6473f27b3ef9907" group-title="PROVINCIALES",Somos Formosa
-flow://U29tb3NfRm9ybW9zYQ==
-#EXTINF:-1 tvg-id="220" tvg-logo="https://i.postimg.cc/T3MRT0Jp/Somos_La_Plata.png" tvg-code="U29tb3NfTGFfUGxhdGE=" tvg-keyid="bffd3b447aa44a429a703245836e46fa" tvg-drmkey="13be31c0bcb76b28b1248bf64ab3926e" group-title="PROVINCIALES",Somos La Plata
-flow://U29tb3NfTGFfUGxhdGE=
-#EXTINF:-1 tvg-id="221" tvg-logo="https://i.postimg.cc/x1D0953j/Somos_MDQ_Necochea.png" tvg-code="Q2FuYWxfQ2l1ZGFkX01EUQ==" tvg-keyid="b57763b8d9c205d609ea509432201fac" tvg-drmkey="a476cf79190fe4810efdd81e32317ff3" group-title="PROVINCIALES",Somos MDQ-Necochea
-flow://Q2FuYWxfQ2l1ZGFkX01EUQ==
-#EXTINF:-1 tvg-id="222" tvg-logo="https://i.postimg.cc/FHCW9Yy9/Somos_Misiones.png" tvg-code="U29tb3NfTWlzaW9uZXM=" tvg-keyid="170d08ce1e5e94e366318d178700e0cf" tvg-drmkey="76259c53b90ce8e0c2824ed49b767bd4" group-title="PROVINCIALES",Somos Misiones
-flow://U29tb3NfTWlzaW9uZXM=
-#EXTINF:-1 tvg-id="223" tvg-logo="https://i.postimg.cc/JzV1Rx5t/Somos_Rosario.png" tvg-code="U29tb3NfUm9zYXJpbw==" tvg-keyid="863ed7f26cf51850b9ed735545c788ce" tvg-drmkey="789edf190d78baefb569e8ca09ac86c2" group-title="PROVINCIALES",Somos Rosario
-flow://U29tb3NfUm9zYXJpbw==
-#EXTINF:-1 tvg-id="224" tvg-logo="https://i.postimg.cc/y84V7jy1/Somos_Salta_Jujuy.png" tvg-code="U29tb3NfU2FsdGE=" tvg-keyid="9879546bcfd8a4231ce7502062f424fb" tvg-drmkey="e071693afea3e58f8b28bf5b2311e3fc" group-title="PROVINCIALES",Somos Salta-Jujuy
-flow://U29tb3NfU2FsdGE=
-#EXTINF:-1 tvg-id="225" tvg-logo="https://i.postimg.cc/zGZJq7FJ/Somos_Santa_Fe.png" tvg-code="U29tb3NfU1RG" tvg-keyid="1344e18e45e6e6e5ec0a302d769c8e52" tvg-drmkey="913cfe90bb3af2d402eada6ad50ce22d" group-title="PROVINCIALES",Somos Santa Fe
-flow://U29tb3NfU1RG
-#EXTINF:-1 tvg-id="226" tvg-logo="https://i.postimg.cc/dVPqJ6jv/Somos_Tucuman.png" tvg-code="U29tb3NfVHVjdW1hbg==" tvg-keyid="a2004558039ee95097010029015316b4" tvg-drmkey="29960fc94fbf7a13c9de1308d508bc25" group-title="PROVINCIALES",Somos TucumÃ¡n
+# #EXTINF:-1 tvg-id="219" tvg-logo="https://i.postimg.cc/jS3gsDHx/Somos_Formosa.png" tvg-code="U29tb3NfRm9ybW9zYQ==" tvg-keyid="ceeb1cfa7ecbc8b22ff9f186287aa4a1" tvg-drmkey="8367cc3655b9fb82d6473f27b3ef9907" group-title="PROVINCIALES",Somos Formosa
+# flow://U29tb3NfRm9ybW9zYQ==
+# #EXTINF:-1 tvg-id="220" tvg-logo="https://i.postimg.cc/T3MRT0Jp/Somos_La_Plata.png" tvg-code="U29tb3NfTGFfUGxhdGE=" tvg-keyid="bffd3b447aa44a429a703245836e46fa" tvg-drmkey="13be31c0bcb76b28b1248bf64ab3926e" group-title="PROVINCIALES",Somos La Plata
+# flow://U29tb3NfTGFfUGxhdGE=
+# #EXTINF:-1 tvg-id="221" tvg-logo="https://i.postimg.cc/x1D0953j/Somos_MDQ_Necochea.png" tvg-code="Q2FuYWxfQ2l1ZGFkX01EUQ==" tvg-keyid="b57763b8d9c205d609ea509432201fac" tvg-drmkey="a476cf79190fe4810efdd81e32317ff3" group-title="PROVINCIALES",Somos MDQ-Necochea
+# flow://Q2FuYWxfQ2l1ZGFkX01EUQ==
+# #EXTINF:-1 tvg-id="222" tvg-logo="https://i.postimg.cc/FHCW9Yy9/Somos_Misiones.png" tvg-code="U29tb3NfTWlzaW9uZXM=" tvg-keyid="170d08ce1e5e94e366318d178700e0cf" tvg-drmkey="76259c53b90ce8e0c2824ed49b767bd4" group-title="PROVINCIALES",Somos Misiones
+# flow://U29tb3NfTWlzaW9uZXM=
+# #EXTINF:-1 tvg-id="223" tvg-logo="https://i.postimg.cc/JzV1Rx5t/Somos_Rosario.png" tvg-code="U29tb3NfUm9zYXJpbw==" tvg-keyid="863ed7f26cf51850b9ed735545c788ce" tvg-drmkey="789edf190d78baefb569e8ca09ac86c2" group-title="PROVINCIALES",Somos Rosario
+# flow://U29tb3NfUm9zYXJpbw==
+# #EXTINF:-1 tvg-id="224" tvg-logo="https://i.postimg.cc/y84V7jy1/Somos_Salta_Jujuy.png" tvg-code="U29tb3NfU2FsdGE=" tvg-keyid="9879546bcfd8a4231ce7502062f424fb" tvg-drmkey="e071693afea3e58f8b28bf5b2311e3fc" group-title="PROVINCIALES",Somos Salta-Jujuy
+# flow://U29tb3NfU2FsdGE=
+# #EXTINF:-1 tvg-id="225" tvg-logo="https://i.postimg.cc/zGZJq7FJ/Somos_Santa_Fe.png" tvg-code="U29tb3NfU1RG" tvg-keyid="1344e18e45e6e6e5ec0a302d769c8e52" tvg-drmkey="913cfe90bb3af2d402eada6ad50ce22d" group-title="PROVINCIALES",Somos Santa Fe
+# flow://U29tb3NfU1RG
+#EXTINF:-1 tvg-id="226" tvg-logo="https://i.postimg.cc/dVPqJ6jv/Somos_Tucuman.png" tvg-code="U29tb3NfVHVjdW1hbg==" tvg-keyid="a2004558039ee95097010029015316b4" tvg-drmkey="29960fc94fbf7a13c9de1308d508bc25" group-title="PROVINCIALES",Somos Tucuman
 flow://U29tb3NfVHVjdW1hbg==
 #EXTINF:-1 tvg-id="227" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/59061481076336.png" tvg-code="U29ueV9Nb3ZpZXM=" tvg-keyid="88b9c41e72acd5b589bbfb4776969781" tvg-drmkey="43b9403f7a9e28fc2d7cbf10373b85aa" group-title="CINE Y SERIES",Sony Movies
 flow://U29ueV9Nb3ZpZXM=
 #EXTINF:-1 tvg-id="228" tvg-logo="https://i.postimg.cc/ZYyZCFdw/Galicia.png" tvg-code="VHZfR2FsaWNpYQ==" tvg-keyid="23419f2a0a214038a94e24db13ee85a9" tvg-drmkey="4c627ad6b8774e548e28d4aaf82a96a0" group-title="OTROS",TV Galicia
 flow://VHZfR2FsaWNpYQ==
-#EXTINF:-1 tvg-id="229" tvg-logo="https://i.postimg.cc/SsZdSknZ/Santa_Fe.png" tvg-code="Q2FuYWxfMTNfU0ZF" tvg-keyid="59ef9057114f44a480b62e36a6b1374f" tvg-drmkey="74ef97bc54df5655c3a1d4f80b16e8d7" group-title="PROVINCIALES",Telefe Santa Fe
-flow://Q2FuYWxfMTNfU0ZF
-#EXTINF:-1 tvg-id="230" tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" tvg-code="VGVsZUp1bmlu" tvg-keyid="04a6e06cd400b52502f9dcab713077ad" tvg-drmkey="629fc0a3c99442eb5ff46b6f3133fd44" group-title="PROVINCIALES",TelejunÃ­n
-flow://VGVsZUp1bmlu
+# #EXTINF:-1 tvg-id="229" tvg-logo="https://i.postimg.cc/SsZdSknZ/Santa_Fe.png" tvg-code="Q2FuYWxfMTNfU0ZF" tvg-keyid="59ef9057114f44a480b62e36a6b1374f" tvg-drmkey="74ef97bc54df5655c3a1d4f80b16e8d7" group-title="PROVINCIALES",Telefe Santa Fe
+# flow://Q2FuYWxfMTNfU0ZF
+# #EXTINF:-1 tvg-id="230" tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" tvg-code="VGVsZUp1bmlu" tvg-keyid="04a6e06cd400b52502f9dcab713077ad" tvg-drmkey="629fc0a3c99442eb5ff46b6f3133fd44" group-title="PROVINCIALES",TelejunÃ­n
+# flow://VGVsZUp1bmlu
 #EXTINF:-1 tvg-id="231" tvg-logo="https://i.postimg.cc/FFZp5y2R/Logo-2.png" tvg-code="VG9vbmNhc3Q=" tvg-keyid="10638a722eb54c64bfb0e7a77483686a" tvg-drmkey="41a7d3d522e19215b7e8f611b6902d61" group-title="INFANTILES",Tooncast
 flow://VG9vbmNhc3Q=
-#EXTINF:-1 tvg-id="232" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/800/542/0/0/62763250072541.png" tvg-code="Q2FuYWxfVQ==" tvg-keyid="202a19e4871c4739a8010aa7b25af37d" tvg-drmkey="07015b4cfa048a3351b83d60aeca5ead" group-title="INTERNACIONAL",UCL Uruguay
-flow://Q2FuYWxfVQ==
-#EXTINF:-1 tvg-id="233" tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2026/02/cropped-Marca-UNLP-TV-sin-fondo.png" tvg-code="Q2FuYWxfVW5pdmVyc2lkYWQ=" tvg-keyid="93c40cee58a5f415828cc32d0c80d311" tvg-drmkey="d00906d71ee69515cd4dca1162d5ae7f" group-title="PROVINCIALES",UNLP.tv
-flow://Q2FuYWxfVW5pdmVyc2lkYWQ=
+# #EXTINF:-1 tvg-id="232" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/800/542/0/0/62763250072541.png" tvg-code="Q2FuYWxfVQ==" tvg-keyid="202a19e4871c4739a8010aa7b25af37d" tvg-drmkey="07015b4cfa048a3351b83d60aeca5ead" group-title="INTERNACIONAL",UCL Uruguay
+# flow://Q2FuYWxfVQ==
+# #EXTINF:-1 tvg-id="233" tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2026/02/cropped-Marca-UNLP-TV-sin-fondo.png" tvg-code="Q2FuYWxfVW5pdmVyc2lkYWQ=" tvg-keyid="93c40cee58a5f415828cc32d0c80d311" tvg-drmkey="d00906d71ee69515cd4dca1162d5ae7f" group-title="PROVINCIALES",UNLP.tv
+# flow://Q2FuYWxfVW5pdmVyc2lkYWQ=
 #EXTINF:-1 tvg-id="235" tvg-logo="https://i.postimg.cc/ZK5jK2FZ/Vorterix.png" tvg-code="Vm9ydGVyaXg=" tvg-keyid="eabe2c22350c26c7f0ad84b34932f08d" tvg-drmkey="39fa06836ec0f81d8dd9b6e01a3070e3" group-title="OTROS",Vorterix
 flow://Vm9ydGVyaXg=
-#EXTINF:-1 tvg-id="236" tvg-logo="https://i.postimg.cc/fWXxRmqj/elnueve_Bahia.png" tvg-code="Q2FuYWw5X0JhaGlhX0JsYW5jYQ==" tvg-keyid="7ccfc823faed878832b3e4a69fcb72a2" tvg-drmkey="d68b394ab768f4a2ec148ab8cdac46ef" group-title="PROVINCIALES",elnueveTV BahÃ­a Blanca
-flow://Q2FuYWw5X0JhaGlhX0JsYW5jYQ==
+# #EXTINF:-1 tvg-id="236" tvg-logo="https://i.postimg.cc/fWXxRmqj/elnueve_Bahia.png" tvg-code="Q2FuYWw5X0JhaGlhX0JsYW5jYQ==" tvg-keyid="7ccfc823faed878832b3e4a69fcb72a2" tvg-drmkey="d68b394ab768f4a2ec148ab8cdac46ef" group-title="PROVINCIALES",elnueveTV BahÃ­a Blanca
+# flow://Q2FuYWw5X0JhaGlhX0JsYW5jYQ==
 # #EXTINF:-1 tvg-id="237" tvg-logo="https://i.postimg.cc/3wJGsKBB/eltrece_2.png" tvg-code="QXJ0ZWFySEQ=" tvg-keyid="5179017f49326d14af0a9ceec831aee6" tvg-drmkey="09b4a463b029ebc28a288bed2da70a76" group-title="OTROS",eltrece
 # flow://QXJ0ZWFySEQ=
-#EXTINF:-1 tvg-id="238" tvg-logo="https://i.postimg.cc/NfcR9FZr/eltres_Rosario.png" tvg-code="Q2FuYWxfM19Sb3Nhcmlv" tvg-keyid="662447df521fb590b72b1a11671c2afd" tvg-drmkey="81c204c443987d7b176587d626a124a0" group-title="PROVINCIALES",eltresTV Rosario
-flow://Q2FuYWxfM19Sb3Nhcmlv
+# #EXTINF:-1 tvg-id="238" tvg-logo="https://i.postimg.cc/NfcR9FZr/eltres_Rosario.png" tvg-code="Q2FuYWxfM19Sb3Nhcmlv" tvg-keyid="662447df521fb590b72b1a11671c2afd" tvg-drmkey="81c204c443987d7b176587d626a124a0" group-title="PROVINCIALES",eltresTV Rosario
+# flow://Q2FuYWxfM19Sb3Nhcmlv
 #EXTINF:-1 tvg-id="200" tvg-logo="https://i.postimg.cc/x8ZQzNsf/Hustler-mature.png" tvg-code="SHVzdGxlcg==" tvg-keyid="cf37db556be5ee1ecd1ee1f1bcf39390" tvg-drmkey="cb2d8390f9c6c39311939fb51ba42ab2" group-title="Adultos",Hustler Mature (18+)
 flow://SHVzdGxlcg==
 #EXTINF:-1 tvg-id="209" tvg-logo="https://i.postimg.cc/tTLGm9X6/Playboy_TV.png" tvg-code="UGxheWJveQ==" tvg-keyid="8577d81eaf33436d9f1e482360685a7c" tvg-drmkey="f608a0ac703cfaaf9442574d9a2b87fb" group-title="Adultos",Playboy TV (18+)
