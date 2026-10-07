@@ -14,12 +14,12 @@ flow://VE5UX1Nwb3J0c19IRA
 #EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png" tvg-code="Rm94X1Nwb3J0c19QcmVtaXVuX0hE" tvg-keyid="4c230dbc7f6a4bfa6ad0aa73ff792374" tvg-drmkey="4186a7c2a15f590a9399886feaec4257" group-title="DEPORTES",ESPN Premium
 flow://Rm94X1Nwb3J0c19QcmVtaXVuX0hE
 
-# #EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" tvg-code="RFNwb3J0c18x" tvg-keyid="4c230dbc7f6a4bfa6ad0aa73ff792374" tvg-drmkey="4186a7c2a15f590a9399886feaec4257" group-title="DEPORTES",DSports
-# flow://RFNwb3J0c18x
-# #EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png" tvg-code="RHNwb3J0c19QbHVzX1VZ" tvg-keyid="4c230dbc7f6a4bfa6ad0aa73ff792374" tvg-drmkey="4186a7c2a15f590a9399886feaec4257" group-title="DEPORTES",DSports +
-# flow://RHNwb3J0c19QbHVzX1VZ
-# #EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" tvg-code="RFNwb3J0c18y" tvg-keyid="4c230dbc7f6a4bfa6ad0aa73ff792374" tvg-drmkey="4186a7c2a15f590a9399886feaec4257" group-title="DEPORTES",DSports 2
-# flow://RFNwb3J0c18y
+#EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" tvg-code="RFNwb3J0c18x" tvg-keyid="86d19904429f78baf98cf1fd481c430e" tvg-drmkey="5229197732a9a3e109264b272bd782f2" group-title="DEPORTES",DSports
+flow://RFNwb3J0c18x
+#EXTINF:-1 tvg-id="43" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png" tvg-code="RHNwb3J0c19QbHVzX1VZ" tvg-keyid="fc51b58e664b610663329079722d98b3" tvg-drmkey="3a444d28d15313665b305bb99c0e4c82" group-title="DEPORTES",DSports +
+flow://RHNwb3J0c19QbHVzX1VZ
+#EXTINF:-1 tvg-id="73" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" tvg-code="RFNwb3J0c18y" tvg-keyid="33848c262a3cc8c0eb8b34cdb9691f04" tvg-drmkey="fd8e52ad745cec9e62263928a10f3abd" group-title="DEPORTES",DSports 2
+flow://RFNwb3J0c18y
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png" tvg-code="VHlDU3BvcnQ" tvg-keyid="2b21c8fa9a329cce311a4c4a4aa996a1" tvg-drmkey="cc23ea1fb32629f9e1f48c8deeae3e5b" group-title="DEPORTES",TyC Sports
 flow://VHlDU3BvcnQ
